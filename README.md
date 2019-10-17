@@ -1,17 +1,214 @@
 <head>
   <!-- Emojis -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-  <!-- Author -->
-  <meta name="author" content="Usheninte Dangana, Ninte">   
-  <!-- Description -->
-  <meta name="description" content="Ninte's Poetry">    
-  <!-- Author Enail -->
-  <meta name="email" content="poetrique@gmail.com" >
 </head>
 
 <!-- Poetry -->
-# <span style="text-decoration: underline">Ninte's Poetry</span>
+# <span style="text-decoration: underline; color: #4889c8;">Ninte's Poetry</span>
 - - -
+
+## Indie Love
+
+I want that  
+numbing feeling  
+that pushes men  
+
+to dream of gods  
+to make fine art  
+and from fear depart  
+
+I want warmth  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[oct 11, 2019]
+
+---
+
+## Dim suns
+
+on those nights  
+when the light  
+leaves all sparks  
+and dolphins  
+swim with sharks  
+do you not wish  
+once more for the brief  
+release freedom brings  
+for to master the mind  
+is to enslave the heart  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[oct 6, 2019]
+
+---
+
+## Clutter Free
+
+be more than a shadow  
+than a shape  
+in the crowd  
+
+las night I heard  
+the whisper of wisdom  
+she had owl wings  
+and bled pure wine  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[oct 6, 2019]
+
+---
+
+## no Title
+
+why do I not  
+grow as they grow  
+why have never really  
+been told "I love you"  
+
+because I'm a frog  
+no Prince deep beneath  
+peace is the wind  
+and desire, the sea  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[oct 5, 2019]
+
+---
+
+## Waves kiss the shore
+
+sandy dreams  
+and desert streams  
+broken, sweet  
+swift release  
+
+all the thunder  
+in the sky  
+can not compete  
+with oceans brief  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 27, 2019]
+
+---
+
+## Gravity
+
+never fall up  
+always rise down  
+do not pursue contemplation  
+simply try to understand  
+
+the forces are within  
+strength, and every bold thing  
+lie not to yourself  
+shuffle every season  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 25, 2019]
+
+---
+
+## the Hue
+
+I used to be sweet  
+kind, I still am  
+sober not still  
+
+I used to feel  
+then swallowed my heart  
+I choke and I spit  
+it still comes not out  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 23, 2019]
+
+---
+
+## Indifferent
+
+love is for all  
+sorrow for none  
+roses are dead  
+once they leave the earth  
+
+beauty is brief  
+joy not as sweet  
+I write in my head  
+but type when I wish    
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 23, 2019]
+
+---
+
+## Pain helps me sleep
+
+Do not pursue euphoria  
+she is a dream  
+that triggers dementia  
+
+be two-sided like the gemini  
+dance the walk of gods  
+on a path of roses  
+always wonder,  
+but never ask why  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 20, 2019]
+
+---
+
+## Suckcess
+
+what good is  
+a thousand thrones  
+when, you have  
+no love in your bones  
+
+alone with my fears  
+so I shed no tears  
+I dance close to rainbows  
+but know not the sun  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 9, 2019]
+
+---
+
+## Wild Love
+
+I know nothing  
+of the taste  
+of a yearning kiss  
+upon my lips  
+
+all my lovers  
+have been wild and brief  
+curious and unfaithful  
+desire is a cliff  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 8, 2019]
+
+---
+
+## When the wind blows
+
+my troubles dance  
+beneath the clouds  
+I fear the rain  
+but love her sound  
+
+my angst revolves  
+round and around  
+the hill that is  
+my soul, pressed down  
+
+* [@teythepoet](https://www.instagram.com/teythepoet/)  
+[Sep 7, 2019]
+
+---
 
 ## The oldest game
 
