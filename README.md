@@ -1,25 +1,442 @@
 <head>
   <!-- Emojis -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="./ninte-logo.ico" />
 </head>
 
 <!-- Poetry -->
+
 # <span style="text-decoration: underline; color: #4889c8;">Ninte's Poetry</span>
-- - -
+
+---
+
+# _Life_
+
+---
+
+## At an end
+
+fight the void  
+or fight the noise  
+either way, it is your choice
+
+the darkness  
+is the light  
+the bright star  
+shines not at night
+
+ask why  
+of yourself, and I  
+will appear and  
+teach you of  
+ancient philosophies
+
+pause here,  
+make no love to hypocrisies
+
+---
+
+## Lucid
+
+clear are my thoughts  
+after wars won, and love lost  
+succeed we must  
+as long as air kisses the dust
+
+my art will grow  
+joy you will know  
+for we are the light  
+of an ancient sun
+
+strong we shall be  
+this be our destiny
+
+---
+
+## Hook
+
+do not believe I  
+know not what I  
+desire, seek, require, believe
+
+just because  
+sometimes I fall shy  
+of your simple imaginations
+
+---
+
+## Reality
+
+we dance away from  
+stronger roots, than  
+branches stretched from  
+the mind's roof.
+
+for sake of pain, for  
+same again, and stumble  
+sharp, with crooked hooves.  
+when we could stand
+
+indeed we do, we wake up strong  
+from dreams untrue.  
+with hope quite calm  
+and vigor renewed,
+
+to do the things  
+we feared to do.
+
+---
+
+## The Journey
+
+The Journey
+Once upon a time  
+A little while ago  
+My younger self  
+Hopped on a jet  
+To learn to scale technology.
+
+I left the land  
+I knew as home  
+All for faith,  
+To grow some more  
+To rise & soar.
+
+The journey has begun  
+For a life of Entrepreneurship  
+Never truly ends.  
+Blessed with momentum infinite  
+I have newfound family.
+
+\#MEST \#ClassOf2020
+
+---
+
+---
+
+# _Self_
+
+---
+
+## Alone
+
+look at the title  
+I am not so  
+speak and breathe with apostles  
+dance around thoughts colossal
+
+I am a child of God so  
+I fall, I weep, I think  
+to live, is not to be good or bad, so  
+I learn my ways  
+each passing day
+
+---
+
+## Seasons
+
+man has been falling  
+ever since before  
+his tongue, learned to turn  
+and kiss flame  
+learned to burn
+
+you should follow no format  
+be free, and come close  
+live with your soul above the sky  
+let the dust know naught of your toes  
+man has been rising
+
+---
+
+## Initialize
+
+you know what to do  
+the boxes are made  
+tick, check  
+draw the line across
+
+you know what to do  
+at this time  
+the light of the moon  
+should cut you no more
+
+---
+
+## Beginnings
+
+even as I waver  
+I know some things to be true  
+the rising of the sun, after night  
+and the face of the ocean, blue
+
+---
+
+## A Poem At Dusk
+
+at seventeen  
+all I wanted to do was dream  
+and I did, till I fell asleep  
+when I woke  
+I feared to breathe, to blink  
+and then I slept once more  
+and in a dream I witnessed  
+a vague relevation  
+this, triggered a hunt  
+for what I knew not  
+a hunger did whirl  
+in my youthful soul
+
+a week to nineteen  
+I met with reality  
+she sang me a song  
+of digital vitality.  
+one of wonder, one of strength  
+and I learnt to sculpt the shadows of the web  
+I learnt to give form, to thoughts  
+a blessed gift, indeed that is  
+for one who was at then  
+as truly lost as I was
+
+fast forward… twenty-one  
+in a land of warmth, serene  
+I know now  
+even though the road, was in itself  
+nothing odd, the destination is yet still  
+so intense that all can do is tutor my mind  
+walk in awe and nod  
+as the path grows ever narrow  
+and I grow ever thirsty  
+for the precious drops of nectar  
+that wisdom offers her travellers
+
+to dream should never seem  
+truly like anything, too foolish to pursue  
+too stressful to endure  
+if I have learnt nothing  
+I have learnt to trust  
+in the motions of universal winds  
+for all things  
+come to those who work  
+even more so, than those who walk  
+for in the path itself, is nothing but a way  
+in the light of night  
+may I still trek the same
+
+---
+
+---
+
+# _Places_
+
+---
+
+## Monday in Lagos
+
+I woke up to religion  
+I went to work  
+with strong precision  
+To move ahead, yet still
+
+The peaceful get nothing  
+in the temple of the Lagoon  
+My mother's people  
+The meek and the mild  
+They hustle to fill their spoon
+
+---
+
+## Letters from Accra
+
+> A short collection of poems written during the Chale Wote festivities in Accra (Ghana), 2019
+
+#### Origins
+
+I do not know where  
+I truly do come from  
+my soul does  
+beat, and hiss, and hum
+
+my heart  
+proves a crooked drum  
+I seek no validation
+
+nor look to beg, "please"  
+my nation is a country  
+that knows not that it is
+
+#### Anything
+
+rainbows from the sun  
+love that's always born  
+a sacred need  
+true wonder indeed
+
+anything  
+can make you smile  
+anything  
+from, where I'm from
+
+#### Akwaaba
+
+welcome to the land  
+of simple dreams  
+and wonders kind.
+
+welcome to the home  
+of peace, of bliss  
+of kings, of queens
+
+#### Ride
+
+jungle style  
+bust a whine, for a while  
+potential stallion  
+give you a ride  
+for a mile
+
+a riddle, and a fable  
+a truth and a lie  
+nothing dark or ugly  
+I'll give you smiles  
+far enough  
+to rival, the Nile
+
+#### Tropical
+
+the way the wind  
+does float, does dance  
+and sing  
+you would think  
+it knows true rhythm
+
+but all it does  
+is call, and listen
+
+#### Son of the Soil
+
+the man of the moon  
+dark and light  
+with a soul  
+always at noon
+
+he calls the sun  
+and runs from none  
+he proves the native  
+the solemn one
+
+_Thanks for reading. I hope this brought you light and energy._
+
+---
+
+---
+
+# _Affection_
+
+---
+
+## Mixed
+
+I know what I feel  
+you know that it's real  
+unsure? no big deal  
+I hurts to still feel
+
+to bend not my ways  
+and break not your rays  
+I'll walk same as always  
+away with dark grace
+
+I will let you go  
+so joy you will know  
+you need not be sad  
+for a while we were glad
+
+---
+
+## Hello
+
+we are strangers  
+who know each other  
+in our generation  
+that's the most normal thing
+
+sing a tune for your soul  
+say hello, and some words more  
+to the face you used to know  
+if you didn't care then  
+do not so now
+
+---
+
+## Happy
+
+my joy is not my own  
+a heart is not for you  
+if you sing to make it sit  
+talk to make it thump
+
+my peace is all I own  
+gold kisses mean nothing  
+those who come close know me  
+all else I watch indifferently
+
+---
+
+## Morning, beautiful
+
+I want to say  
+a thousand things  
+but my mind  
+yet still watches  
+the dance of your heart
+
+say what you feel  
+draw near and breathe deep  
+teach me your fantasies  
+let me know your faith
+
+and I will conquer a dozen stars  
+and take you farther than Mars  
+just reach out, speak, smile  
+and I will make it worth your while
+
+---
+
+## 10pm
+
+ever came across  
+a mirror of your soul  
+one that understands  
+even when she does not know
+
+a gift, in all she is  
+a wind of such calm bliss  
+that you write in ink once more  
+and dream of digital things
+
+---
+
+<div style="background-color: #232323">
+<hr style="color: #f0f0f0"/>
+</div>
+
+---
 
 ## Indie Love
 
 I want that  
 numbing feeling  
-that pushes men  
+that pushes men
 
 to dream of gods  
 to make fine art  
-and from fear depart  
+and from fear depart
 
-I want warmth  
+I want warmth
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [oct 11, 2019]
 
 ---
@@ -35,9 +452,9 @@ do you not wish
 once more for the brief  
 release freedom brings  
 for to master the mind  
-is to enslave the heart  
+is to enslave the heart
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [oct 6, 2019]
 
 ---
@@ -46,14 +463,14 @@ is to enslave the heart
 
 be more than a shadow  
 than a shape  
-in the crowd  
+in the crowd
 
 las night I heard  
 the whisper of wisdom  
 she had owl wings  
-and bled pure wine  
+and bled pure wine
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [oct 6, 2019]
 
 ---
@@ -63,14 +480,14 @@ and bled pure wine
 why do I not  
 grow as they grow  
 why have never really  
-been told "I love you"  
+been told "I love you"
 
 because I'm a frog  
 no Prince deep beneath  
 peace is the wind  
-and desire, the sea  
+and desire, the sea
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [oct 5, 2019]
 
 ---
@@ -80,14 +497,14 @@ and desire, the sea
 sandy dreams  
 and desert streams  
 broken, sweet  
-swift release  
+swift release
 
 all the thunder  
 in the sky  
 can not compete  
-with oceans brief  
+with oceans brief
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 27, 2019]
 
 ---
@@ -97,14 +514,14 @@ with oceans brief
 never fall up  
 always rise down  
 do not pursue contemplation  
-simply try to understand  
+simply try to understand
 
 the forces are within  
 strength, and every bold thing  
 lie not to yourself  
-shuffle every season  
+shuffle every season
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 25, 2019]
 
 ---
@@ -113,14 +530,14 @@ shuffle every season
 
 I used to be sweet  
 kind, I still am  
-sober not still  
+sober not still
 
 I used to feel  
 then swallowed my heart  
 I choke and I spit  
-it still comes not out  
+it still comes not out
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 23, 2019]
 
 ---
@@ -130,14 +547,14 @@ it still comes not out
 love is for all  
 sorrow for none  
 roses are dead  
-once they leave the earth  
+once they leave the earth
 
 beauty is brief  
 joy not as sweet  
 I write in my head  
-but type when I wish    
+but type when I wish
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 23, 2019]
 
 ---
@@ -146,15 +563,15 @@ but type when I wish
 
 Do not pursue euphoria  
 she is a dream  
-that triggers dementia  
+that triggers dementia
 
 be two-sided like the gemini  
 dance the walk of gods  
 on a path of roses  
 always wonder,  
-but never ask why  
+but never ask why
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 20, 2019]
 
 ---
@@ -164,14 +581,14 @@ but never ask why
 what good is  
 a thousand thrones  
 when, you have  
-no love in your bones  
+no love in your bones
 
 alone with my fears  
 so I shed no tears  
 I dance close to rainbows  
-but know not the sun  
+but know not the sun
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 9, 2019]
 
 ---
@@ -181,14 +598,14 @@ but know not the sun
 I know nothing  
 of the taste  
 of a yearning kiss  
-upon my lips  
+upon my lips
 
 all my lovers  
 have been wild and brief  
 curious and unfaithful  
-desire is a cliff  
+desire is a cliff
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 8, 2019]
 
 ---
@@ -198,14 +615,14 @@ desire is a cliff
 my troubles dance  
 beneath the clouds  
 I fear the rain  
-but love her sound  
+but love her sound
 
 my angst revolves  
 round and around  
 the hill that is  
-my soul, pressed down  
+my soul, pressed down
 
-* [@teythepoet](https://www.instagram.com/teythepoet/)  
+**Ninte**  
 [Sep 7, 2019]
 
 ---
@@ -216,18 +633,18 @@ a thing of make-believe
 is what inspires men to give  
 their passions and their pain  
 their worship  
-oft in shame  
+oft in shame
 
 the righteous  
 are but sheep  
 and sinners, herders weak  
 my soul and I choose this  
-... to find only what we seek  
+... to find only what we seek
 
-* Ninte  
-[Aug 10, 2019]
+- Ninte  
+  [Aug 10, 2019]
 
-- - -
+---
 
 ## Mandala Maiden
 
@@ -236,7 +653,7 @@ digital potrait
 of love, and design  
 crafted by the very  
 mind that causes the  
-sky above, to smile  
+sky above, to smile
 
 more than everything  
 is what you mean  
@@ -256,17 +673,18 @@ and tame the moon
 ... and all else you seek  
 just for you
 
-_With <i class="em em-gift_heart"></i> from **OG**_. Happy Birthday!  
-* Ninte [May 18, 2019]
+_With <i class="em em-gift_heart"></i> from **OG**_. Happy Birthday!
 
---- 
+- Ninte [May 18, 2019]
+
+---
 
 ## whisper good tidings
 
 pick your words  
 do your part  
 you know your role  
-you have from the start  
+you have from the start
 
 be a cold soul  
 do it all, and  
@@ -276,27 +694,27 @@ from which the seed
 that is the truth  
 as an arrow  
 in the air  
-lets its wings show  
+lets its wings show
 
-* Ninte [June 22, 2019]
+- Ninte [June 22, 2019]
 
-- - -
+---
 
 ## African Gangstar
 
 all is fair  
 in love and code  
 you push a block  
-you bless the node  
+you bless the node
 
 the source is pure  
 the rewards, endless  
 to make your pay  
 you fight relentless
 
-* Ninte [June 20, 2019]  
+- Ninte [June 20, 2019]
 
-- - -
+---
 
 ## Mad Digital
 
@@ -309,7 +727,7 @@ and give out hugs
 but its all not still enough  
 yes we build  
 on mountains rough  
-but where is all the gain  
+but where is all the gain
 
 all i see is pain  
 all i see is numb  
@@ -327,7 +745,7 @@ one day
 we all worship  
 a digital god  
 every sinner in the temple  
-one and the same  
+one and the same
 
 it dont matter your name  
 it dont matter your game  
@@ -339,90 +757,90 @@ on the altar of the internet
 what it all mean  
 its like we are in a movie  
 and its all too good  
-to be truly true  
+to be truly true
 
 its like we are in a zoo  
 and the keeper is a warden  
-god, is this true of you too  
+god, is this true of you too
 
 its probably not that deep  
 probably much more steep  
 this could be a videogame  
-one we cannot win  
+one we cannot win
 
 no role models  
 and we got this far  
 and we built this star  
 we are the final contellation  
-in a sky with a scar  
- 
-* Ninte [June 20, 2019]
+in a sky with a scar
 
-- - -
+- Ninte [June 20, 2019]
+
+---
 
 ## --who be me--
 
 me, be a lonely king  
 I've got the gold  
-in bulk  
+in bulk
 
 and more is on the way  
 I look to the day  
 I have me children  
 with souls as warm  
-as the desert snow  
+as the desert snow
 
 I used to be a writer  
 I used to be a fighter  
 I used to be like water  
-always, steady on the flow  
+always, steady on the flow
 
 now I work for more  
 of the same, of the same  
-old glory  
+old glory
 
 in the end  
 the world, will  
-watch my holy story  
+watch my holy story
 
-* Ninte [June 10, 2019]
+- Ninte [June 10, 2019]
 
-- - -
+---
 
 ## --full plate--
 
 lie to yourself  
-feed on your soul  
+feed on your soul
 
 there will always  
 be one spoon of truth  
 even after  
-the last bite  
+the last bite
 
-* Ninte [June 2, 2019]
+- Ninte [June 2, 2019]
 
-- - -
+---
 
 ## --reflection--
 
 I make art  
-do you even care  
+do you even care
 
 I work like gods  
-would do  
+would do
 
-do you taste the air  
+do you taste the air
 
 I carve for you  
-from hills of hue  
+from hills of hue
 
 all for a reflection  
 of your soul,  
-that's past due  
+that's past due
 
-* Ninte [June 1, 2019]
+- Ninte [June 1, 2019]
 
-- - - 
+---
 
 ## --sudo--
 
@@ -430,81 +848,81 @@ sudo! the power of words
 power of truth  
 you know  
 we one and the same  
-all of the youth  
+all of the youth
 
-* Ninte [June 1, 2019]
+- Ninte [June 1, 2019]
 
-- - -
+---
 
 ## --merry--
 
 land of the free  
 that once held slaves  
 home of the brave  
-yet full of knaves  
+yet full of knaves
 
 who would have thought  
 you would fall so low  
 you fought for liberty  
 and sold your soul
 
-* Ninte [June 1, 2019]
+- Ninte [June 1, 2019]
 
-- - -
+---
 
 ## --not your son--
 
 send me to die  
 and I will rise  
 an angel  
-out of the dust  
+out of the dust
 
 look, I dont like  
 my word is double-edged  
-and has never known rust  
+and has never known rust
 
 you think you can  
 bully me, into the weak  
-man you want  
+man you want
 
 I aint your son  
 my word is born  
-its heat does rival the sun  
+its heat does rival the sun
 
-* Ninte [June 1, 2019]
+- Ninte [June 1, 2019]
 
-- - -
+---
 
 ## --home of the weak--
 
 what does the fate  
 of young men, dead  
-taste like  
+taste like
 
 I say disgrace  
 cause, black aint  
-meant to die  
+meant to die
 
 I say you know  
 what your sin  
-looks like  
+looks like
 
 god help my soul  
 if, for my people  
 I wont fight
 
-* Ninte [June 1, 2019]
+- Ninte [June 1, 2019]
 
-- - -
+---
 
 ## --spit it out--
 
 nobody will hold  
 your darkened hand  
-up, out of the cold  
+up, out of the cold
 
 in case you have not heard  
-this story has been told  
+this story has been told
 
 we are the children of Ham  
 born of the dust. So damn!
@@ -512,100 +930,100 @@ born of the dust. So damn!
 there is pity for us  
 they have to earn our trust
 
-* Ninte [May 30, 2019]
+- Ninte [May 30, 2019]
 
-- - -
+---
 
 ## --testament--
 
 there is no messiah  
 for a preacher  
-with no choir  
+with no choir
 
 there is no salvation  
 for a people  
-with no nation  
+with no nation
 
 black, was just a colour  
 till our crimson  
-blood did pour  
+blood did pour
 
 I am no messiah  
 I write hymns  
-with no choir  
+with no choir
 
-* Ninte May 28, 2019]
+- Ninte May 28, 2019]
 
-- - -
+---
 
 ## --flaky whispers--
 
 a cig a day  
 keeps  
-addiction away  
+addiction away
 
 maybe six  
 maybe less  
-never more  
+never more
 
-* Ninte [May 27, 2019]
+- Ninte [May 27, 2019]
 
-- - -
+---
 
 ## --blink--
 
 I am the solemn truth  
 bitter strength,  
-marked by dark desire  
+marked by dark desire
 
 blunt to the root  
 for no one cares  
-to kiss my fire  
+to kiss my fire
 
 strange I am called  
 all claim to know  
-the path I walk  
+the path I walk
 
 I am a broken truth  
 a drunked preacher  
-a sinful choir  
+a sinful choir
 
-* Ninte [May 27, 2019]
+- Ninte [May 27, 2019]
 
-- - -
+---
 
 ## --a dead vein--
 
 what brings no pain  
 what tastes the same  
 weakness, indeed  
-each single day  
+each single day
 
 what can not play  
 what must one pay  
 power, indeed  
 each, every way
 
-* Ninte [May 25, 2019]
+- Ninte [May 25, 2019]
 
-- - -
+---
 
 ## —baptize—
 
 tobacco leaves  
 drowning in liquor  
 good men  
-can not know stupor  
+can not know stupor
 
 for to be foolish  
 is to be evil  
 is to be  
 other than good  
-in self-purity, relish  
+in self-purity, relish
 
-* Ninte [May 20, 2019]
+- Ninte [May 20, 2019]
 
-- - -
+---
 
 ## --burnday--
 
@@ -613,16 +1031,16 @@ haiku superior
 my flow is injurious  
 poetry, what I be  
 my flow is  
-far from superfluous  
+far from superfluous
 
 I burn tobacco  
 on a Sunday  
 on a Burnday  
-cause that’s just my way  
+cause that’s just my way
 
-* Ninte [May 19, 2019]
+- Ninte [May 19, 2019]
 
-- - -
+---
 
 ## --lover’s playground--
 
@@ -631,28 +1049,28 @@ three groups
 six hearts  
 some full of gravity  
 two truly flown  
-one unknown  
+one unknown
 
 I would move the earth  
 but you would not  
 then it did seem  
 you feared to love  
-he whom love, knew not  
+he whom love, knew not
 
 he whom fate forgot  
 when she coupled stars  
-and bond oceans together  
+and bond oceans together
 
-* Ninte [May 18, 2019]
+- Ninte [May 18, 2019]
 
-- - -
+---
 
 ## --my word is born--
 
 I drink smoke  
 but never choke  
 making money cold  
-never broke  
+never broke
 
 I listen to  
 the prophecies  
@@ -661,120 +1079,120 @@ they hold more truth
 than most of these  
 modern deceivers
 
-* Ninte [May 18, 2019]  
+- Ninte [May 18, 2019]
 
-- - -
+---
 
 ## --abracadabra--
 
 I am no cold soul  
 no lifeless cadaver  
 why treat me so  
-like a worthless whomever  
+like a worthless whomever
 
 a poet filled with pain  
 an artist filled with shame  
 must I keep quiet  
 invisible...  
-like a sky, with no weather  
+like a sky, with no weather
 
-* Ninte [May 17, 2019]
+- Ninte [May 17, 2019]
 
-- - -
+---
 
 ## --videogame--
 
 will you be first player  
 the slayed, or slayer  
 on the battlefield  
-of love. I enquire  
+of love. I enquire
 
 laid to waste  
 have I been  
 I feel so much  
-but cannot scream  
+but cannot scream
 
-* Ninte [May 17, 2019]
+- Ninte [May 17, 2019]
 
-- - -
+---
 
 ## --fascinate--
 
 to her I am desire  
 pure, full of fire  
 liking she can  
-love though - Oh never  
+love though - Oh never
 
 the first was vain  
 the current is clever  
 her cloaks remain the same  
-how shall I expire  
+how shall I expire
 
-* Ninte [May 17, 2019]
+- Ninte [May 17, 2019]
 
-- - -
+---
 
 ## --sweet desires--
 
 you taste like  
 cinnamon  
 pain, you tireless  
-lover. Only you remain  
+lover. Only you remain
 
 all I wanted was to help  
 why must I be broken  
 to you bound  
 ever yoken
 
-* Ninte [May 17, 2019]
+- Ninte [May 17, 2019]
 
-- - -
+---
 
 ## --depth--
 
 I dance  
 around the fire  
 of greatness  
-and youth  
+and youth
 
 it’s shadow  
 is immense  
 it’s loneliness  
-is couth  
+is couth
 
 alone I dance  
 in wonder  
 who would kiss  
-a dragon’s tooth  
+a dragon’s tooth
 
-* Ninte [May 17, 2019]
+- Ninte [May 17, 2019]
 
-- - -
+---
 
 ## --mic test--
 
 one, two, three  
 who is sicker  
 than the rapper  
-who I be  
+who I be
 
 grime star, for a sec  
 git king now  
-believe  
+believe
 
 went off the internet  
 like social networks  
-for a github repo  
+for a github repo
 
 its all kinda funny  
 cause now I code  
 for money, bliss  
-and poetry  
+and poetry
 
 who would  
-have thought...  
+have thought...
 
-* Ninte [May 16, 2019]
+- Ninte [May 16, 2019]
 
 ---
 
@@ -784,7 +1202,7 @@ power is not a thing to sought
 of bought like a corrupt vote  
 it is not a thing to be sold  
 it not a thing to be abused  
-it is taken by the bold  
+it is taken by the bold
 
 i am no perfect man  
 my sins are electric  
@@ -794,29 +1212,29 @@ lies not in aging men
 or foolish parties  
 but in the order that comes  
 from the mistakes children  
-are permitted to make  
+are permitted to make
 
 my stake i claim  
 even if it will cause  
 the skies to quake  
 even if it will make  
-men lesser shake  
+men lesser shake
 
 even if it will cause  
 the children of nubia strong  
 to fall on rocks  
 and scream in pain  
 for the truth  
-can prove like ice in the vein  
+can prove like ice in the vein
 
 i do not fear  
 the end or repercussion  
 for my voice must be heard  
 and my soul must rise and kiss the sky  
-like a golden dark cloud  
+like a golden dark cloud
 
-* Ninte  
-FEB-26-2019
+- Ninte  
+  FEB-26-2019
 
 ---
 
@@ -825,23 +1243,23 @@ FEB-26-2019
 what is art  
 but soul, in part  
 but rivers flowing  
-and suns born dark  
+and suns born dark
 
 what is love  
 but feelings warm  
 dark as fate  
-both odd and bright  
+both odd and bright
 
 \>\> **Ninte**
 &copy; 05-2019
 
-- - - 
+---
 
 ### [Silence](#)
 
 i laugh  
 i teach  
-my heart lacks speech  
+my heart lacks speech
 
 i move  
 i grow  
@@ -855,7 +1273,7 @@ you did teach
 \>\> **Ninte**
 &copy; 02-2019
 
-- - -
+---
 
 ### [Sinner boy](#)
 
@@ -864,7 +1282,7 @@ how funny
 the pain still tastes the same  
 all I wanted  
 was a soul  
-to soothe the pain  
+to soothe the pain
 
 how childish  
 desire, this ancient game
@@ -872,14 +1290,14 @@ desire, this ancient game
 \>\> **Ninte**
 &copy; 02-2019
 
-- - -
+---
 
 ### [Seen](#)
 
 what is worse  
 than love unreturned  
 what hurts more  
-than sins not forgiven  
+than sins not forgiven
 
 a poem unread...  
 a heart simply walking away  
@@ -889,27 +1307,27 @@ caring to say why
 \>\> **Ninte**
 &copy; 03-2019
 
-- - -
+---
 
 ### [Mountain](#)
 
 no one knows  
 the mountain of pain  
 I climb each day  
-I smile either way  
+I smile either way
 
-so alone 
+so alone
 an island of stone  
 surrounded by  
-other rocks  
+other rocks
 
 ships never  
-kissing my docks  
+kissing my docks
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Ghana girl](#)
 
@@ -917,7 +1335,7 @@ come over when
 the sun falls, and  
 makes love with the sky  
 so we can do the same  
-by and by  
+by and by
 
 we do not have to try  
 love is cliche  
@@ -928,19 +1346,19 @@ for a couple ...
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Blacktacus](#)
 
 I am not a player  
 but a pussy slayer  
 I'm a gladiator  
-call me Blacktacus  
+call me Blacktacus
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Cold bed](#)
 
@@ -949,16 +1367,16 @@ fun, foreign lover
 dare to sin in style  
 and make love  
 everywhere but the bed  
-for a while  
+for a while
 
 you do not sleep  
 with me, you meet  
-my soul  
+my soul
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Electric Blunt](#)
 
@@ -966,7 +1384,7 @@ we can not hurt us
 I shall not kill me  
 except safe, it will save thee  
 my lost family  
-from blunt stupidity  
+from blunt stupidity
 
 you do not need a matyr  
 you need to understand  
@@ -974,19 +1392,19 @@ that life, is no satire
 no comedy of reflections  
 if we are to awaken  
 we must rise up  
-and kiss the dust no more  
+and kiss the dust no more
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Oasis](#)
 
 come people  
 listen to the thunder  
 listen to the power  
-the angels scream and cower  
+the angels scream and cower
 
 we will hide no longer  
 we knock on heaven's door  
@@ -999,20 +1417,20 @@ for we shall see our way
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [The African](#)
 
 I am first of my name  
 ignorant of shame  
 I do not desire fame  
-so I shall not play the game  
+so I shall not play the game
 
 listen, and beware  
 for a lion is born  
 straight from the Nation  
 of Nubian royality and  
-a Noble history  
+a Noble history
 
 this revolution  
 will not be marginalised
@@ -1020,7 +1438,7 @@ will not be marginalised
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [This I know](#)
 
@@ -1028,33 +1446,33 @@ I am not desired
 I am not  
 sought out, for  
 reasons of love  
-or even of affection  
+or even of affection
 
 those who care,  
 hardly stay for long  
 they want to change me  
-but my soul proves too strong  
+but my soul proves too strong
 
 no one has ever loved me  
 like a poet needs to be loved  
 like a flower needs to be kissed  
 like a snowy mountain  
-needs to be one with the sky  
+needs to be one with the sky
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Moist & cozy](#)
 
 what type of energy  
 is created when we  
-lock our youthful lips  
+lock our youthful lips
 
 what form of motion  
 is birthed when we  
-twist our hungry hips  
+twist our hungry hips
 
 a moist and cozy  
 celestial locomotion  
@@ -1063,81 +1481,81 @@ this I know for sure
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Afrofly](#)
 
 how do I pimp my butterfly  
 how do I kill the caterpillar  
 that is all love does see  
-as though its face, is me  
+as though its face, is me
 
 I guess I am Afrofly  
 beautiful enough to be desired  
 too high, maybe to reach  
 money can not buy love  
-this, my wallet just did teach  
+this, my wallet just did teach
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Gold, sweat and milk](#)
 
-come at me   
-come at me   
-throw all your stones   
-you can not stop my progeny    
+come at me  
+come at me  
+throw all your stones  
+you can not stop my progeny
 
 I did this for the G\*S\*M  
 Gold, sweat, milk  
-I did just to be    
-the Am I Am  
+I did just to be  
+the Am I Am
 
 look into my keyhole  
-tell me, do you smell a soul?  
+tell me, do you smell a soul?
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Watermelon sins](#)
 
 red is the colour  
 of my ecstasy  
 dotted with a bit of  
-black fantasy  
+black fantasy
 
 will you sin with me?  
 will you dare to see  
-my version of reality  
+my version of reality
 
 babe, you know you should  
-my cup tastes sweet  
+my cup tastes sweet
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Sober, LOL](#)
 
 I do not know  
 I do not care to  
 understand why hearts  
-beat as they do  
+beat as they do
 
 fuck who you will  
 love who you shall  
 sobriety kill  
-keep thee far from me  
+keep thee far from me
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Story story](#)
 
@@ -1145,7 +1563,7 @@ I have told a lie
 never have I known  
 the wonders, of a soul  
 wrapped around my heart  
-at night  
+at night
 
 I have told a truth  
 what poet could ever be  
@@ -1156,14 +1574,14 @@ I have slept with gods
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [He is coming soon](#)
 
 she wanted me pure  
 for my own good  
 fed me soul food  
-taught me not to brood  
+taught me not to brood
 
 but the peace was passing  
 the joy confusing  
@@ -1173,7 +1591,7 @@ but for loss of truth
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Loveless](#)
 
@@ -1181,7 +1599,7 @@ can you miss
 what it is, you have  
 never had? Can you want  
 to kiss lips, that
-do not want you  
+do not want you
 
 I do not, know  
 why my lot is so  
@@ -1191,14 +1609,14 @@ yet walk upon the sun
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
 ### [Prodigal](#)
 
 I have nothing to say  
 I am not ashamed  
 a man, I have become  
-my own way, have I paved  
+my own way, have I paved
 
 love should bless  
 whom love deems worthy  
@@ -1209,65 +1627,65 @@ I am not ashamed
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - -
+---
 
-### [F*ck It](#) 
+### [F\*ck It](#)
 
 live for the liquor  
 and bold dreams  
 love, when love will have you  
-smoke every other time  
+smoke every other time
 
 my flame is now electric  
 my nicotine, I sip  
 in liquid form  
-youth is young, only ever once  
+youth is young, only ever once
 
 \>\> **Ninte**  
 &copy; 02-2019
 
-- - - 
+---
 
 ### [truth be told](#)
 
 what is a man  
 without his flaws  
-what is a god without sin  
+what is a god without sin
 
 how does one  
 buy a blessing  
-do you think gods are men  
+do you think gods are men
 
 boom, a new world comes  
 i am a prophet of peace  
 but the price of pain  
-is a deal, too sweet  
+is a deal, too sweet
 
 i am the oddest  
 son of apollo  
 he gave me the  
-mind of the sun  
+mind of the sun
 
 and then left me on my own  
-like everyone does  
+like everyone does
 
 commented out, i fight the shout  
 that builds up in my destiny  
 my ink is electric  
-my only fear is me  
+my only fear is me
 
 \>\> **Ninte**  
 &copy; 02-2019
 
 #commentedOut #gitConfessions
 
-- - -
+---
 
 ### [heart song](#)
 
 silence is the sound of power  
 i must contain my  
-youthful misery  
+youthful misery
 
 so what, if i have never known love  
 so what, if i am seen as strange  
@@ -1275,41 +1693,41 @@ why care when i can change the world
 and write each day, a brand new page
 
 i must listen to my heart sing  
-oh how faint its sound now is  
+oh how faint its sound now is
 
 i must build echo  
-like ashes grown to tall wild flame  
+like ashes grown to tall wild flame
 
-* Ninte ::: Jan-10-2019
+- Ninte ::: Jan-10-2019
 
-- - -
+---
 
 ### [my new resolve](#)
 
 i will hold my heart  
 in my left hand  
-far away from love    
+far away from love  
 i must work now,  
-understand  
+understand
 
 i will be the king  
 i have feared to be  
 i care not if i can  
-or should, in verity  
+or should, in verity
 
-* Ninte ::: Jan-09-2019   
+- Ninte ::: Jan-09-2019
 
-- - -
+---
 
 ### [Me, Moi - Oui](#)
 
 i am one of three  
 love, trust, and belief  
 are all you need to see  
-my tri-reality  
+my tri-reality
 
-i have fallen, 
-time and again   
+i have fallen,
+time and again  
 i am whipped  
 by my own hand  
 it firmly grips  
@@ -1317,11 +1735,11 @@ an ancient chain
 
 but no more.  
 Look, you will see  
-... that is all  
+... that is all
 
-* Ninte ::: Jan-07-2019    
+- Ninte ::: Jan-07-2019
 
-- - -
+---
 
 ### [vino & 'bacco](#)
 
@@ -1339,81 +1757,81 @@ i like the red, and the brown
 maybe cause  
 i am a child of the earth  
 and i bleed up,  
-never down  
+never down
 
-* Ninte ::: Dec-20-2018
+- Ninte ::: Dec-20-2018
 
 ### [half closed](#)
 
 babylon is gone  
 the glorious have risen  
 we move when we dream  
-we rise with the angels  
+we rise with the angels
 
 have you heard  
 the whisper, of a  
 tale half closed  
 come close. Listen
 
-* Ninte ::: Nov-25-2018
+- Ninte ::: Nov-25-2018
 
-- - -
+---
 
 ### [on guard](#)
 
 art is war  
 do you not believe  
 you fight your soul  
-just to birth a dream  
+just to birth a dream
 
 if you want to be good  
 be wicked first  
 the pure dilutes  
-the weak repent  
+the weak repent
 
-* Ninte ::: Nov-23-2018
+- Ninte ::: Nov-23-2018
 
 ### give & take
 
 I seek not fame  
 but to make a name  
 love and pain  
-they both taste the same  
+they both taste the same
 
 you sang of want  
 need and desire  
 made me parched  
-with your ancient fire  
+with your ancient fire
 
 I hunted fate  
 you hunted a mate  
 we both did get  
-each, what we required  
+each, what we required
 
-* Ninte ::: Nov-22-2018
+- Ninte ::: Nov-22-2018
 
 ### [baby](#)
 
 I am an old mind  
 you are a young star  
 you think in rosy  
-colours of wonder  
+colours of wonder
 
 you could never love me  
 for I detest reality  
 does that make me a baby?  
 my simple love for vanity
 
-* Ninte ::: Nov-20-2018
+- Ninte ::: Nov-20-2018
 
-- - -
+---
 
 ### [one-eyed](#)
 
 you were the moon  
 and I, the sun  
 one-eyed, broken  
-and full of fear  
+and full of fear
 
 you took my mind  
 and gently kissed  
@@ -1427,75 +1845,77 @@ where the gods seat
 in the sky,  
 the kingdom of air
 
-* Ninte ::: Nov 2018
+- Ninte ::: Nov 2018
 
-- - -
-* * *
+---
 
-[visit POETRIQUE on Instagram](http://instagram.com/poetrique)  
+---
+
+[visit POETRIQUE on Instagram](http://instagram.com/poetrique)
 
 [read NEONBULLSH_T](https://usheninte.github.io/neonbullsh-t/)  
 <a href="https://usheninte.github.io/neonbullsh-t/">
-  <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1517942657/NEONBULLSH_T.png" 
+<img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,w_500/v1517942657/NEONBULLSH_T.png" 
       alt="NEONBULLSH_T cover" 
       title="NEONBULLSH_T cover"
       style="width: 200px; height: auto;" />
 </a>
 
-[read The ADHD Chapbook](http://bit.ly/adhd-poetrique)  
+[read The ADHD Chapbook](http://bit.ly/adhd-poetrique)
 
 [read ODD HEARTS](http://bit.ly/read_Odd_Hearts)  
 <a href="http://bit.ly/read_Odd_Hearts">
-  <img src="http://res.cloudinary.com/poetrique/image/upload/q_100/v1527885711/htmlpoems/OddHearts.jpg" 
+<img src="http://res.cloudinary.com/poetrique/image/upload/q_100/v1527885711/htmlpoems/OddHearts.jpg" 
       alt="Odd-Hearts_COVER" 
       title="Odd-Hearts_COVER" 
       style="width: 200px; height: auto;" />
 </a>
 
-* * *
-- - -
+---
+
+---
 
 ## Understand
 
 we are odd  
 as a glitch rainbow  
 that's why, queens  
-dream, when we say so  
+dream, when we say so
 
 we are digital Freuds  
 our mentality  
 is hot as fuego  
 our spirituality is firm  
-you must know  
+you must know
 
 we are the children  
-of tomorrow  
+of tomorrow
 
-* Ninte ::: SEP-23-018  
+- Ninte ::: SEP-23-018
 
-- - -
+---
 
 # We Are At 4K Lines
 
-* Ninte :: SEP-22-018  
+- Ninte :: SEP-22-018
 
-- - -
+---
 
 ## Pretty
 
 I need me a poet  
 a pretty rose  
 black, with a heart  
-and skin of gold  
+and skin of gold
 
 to walk with me as  
 I will conquer oblivion  
 someone, bold  
-wise enough to love truly  
+wise enough to love truly
 
-* Ninte ::: SEP-22-018  
+- Ninte ::: SEP-22-018
 
-- - -
+---
 
 ## Vulnerable
 
@@ -1504,101 +1924,101 @@ being successful and alone
 is painful, stressful  
 you can not know  
 how it hurts  
-... to the bone  
+... to the bone
 
 I need no pity  
 I need no love  
 all I want is warmth  
 a heart to nurse my mind  
-and comfort  
+and comfort
 
-* Ninte ::: SEP-20-018  
+- Ninte ::: SEP-20-018
 
-- - -
+---
 
 ## I Said
 
 I am not a player  
 I am a lover  
-who happens to like games  
+who happens to like games
 
 no two hearts are the same  
 you sing out my name  
 when we dance the dance  
-of the moon and the stars  
+of the moon and the stars
 
 I only want warm love  
-you said, I said  
+you said, I said
 
-* Ninte ::: SEP-20-018  
+- Ninte ::: SEP-20-018
 
-- - -
+---
 
 ## King Talk
 
 move like you speak  
 man is a lion  
 not a mouse  
-so man will no longer squeak  
+so man will no longer squeak
 
 pride, this is not  
 hide, I can not  
 for my destiny is more ablaze  
 than the tip of the sun  
-in the sky  
+in the sky
 
-* Ninte ::: SEP-19-018  
+- Ninte ::: SEP-19-018
 
-- - -
+---
 
 ## Night
 
 to each his own  
 to birds, flight  
 to gods, night  
-to men, fright  
+to men, fright
 
 when you the sun falls  
 I rise up, I take off  
 I take what's mine  
-I hustle & break hearts  
+I hustle & break hearts
 
-* Ninte ::: SEP-18-018  
+- Ninte ::: SEP-18-018
 
-- - -
+---
 
 ## Bad guy
 
 i have never loved  
 i have been loved  
 i have never fought  
-i have been fought for  
+i have been fought for
 
 i am white gold  
 and my lovers are the  
 night sky  
 ... breaking every rule  
-i am rare and bold  
+i am rare and bold
 
-* Ninte ::: SEP-17-018
+- Ninte ::: SEP-17-018
 
-- - -
+---
 
 ## I love JavaScript
 
 that yellow streak  
-on my G*thub repo  
+on my G\*thub repo  
 gives me joy  
-makes me leap  
+makes me leap
 
 i am a warrior  
 of the digital order  
 i will master this sword  
-before lifting any other  
+before lifting any other
 
-* Ninte ::: SEP-14-018  
+- Ninte ::: SEP-14-018
 
-- - -
+---
 
 ## offline
 
@@ -1608,88 +2028,88 @@ heading to the city
 coming from the jungle  
 I will be a King  
 do you not hear  
-my words rumble  
+my words rumble
 
 the road is not the journey  
 the path is not the way  
 I know this, and can say  
 much more  
-but not today  
+but not today
 
-* Ninte ::: SEP-12-018  
+- Ninte ::: SEP-12-018
 
 #### Non
 
 yes, indeed  
 I know what I need  
 not belief alone  
-I have planted the seed  
+I have planted the seed
 
 yes, indeed  
 I know why I bleed  
 not for joy alone  
-but for the war ahead  
+but for the war ahead
 
-* Ninte ::: SEP-12-018  
+- Ninte ::: SEP-12-018
 
 #### Her Words
 
 his mind is sweet  
 it tastes like  
 wine and poetry  
-fire and history  
+fire and history
 
 his soul is something  
 else entirely  
 wild, yet sweet still  
-it could build or kill  
+it could build or kill
 
-* Ninte ::: SEP-12-018  
+- Ninte ::: SEP-12-018
 
-- - -
+---
 
 ## terminal maestro
 
 I am a different kind of person  
 I think in color, and breathe in static  
-My people are **electric**  
+My people are **electric**
 
 We come from the planet  
 ... after Pluto, and  
 love machines beautiful  
 We have _souls_ prone to changes  
-When we push and pull our hearts  
+When we push and pull our hearts
 
 We are of the race, digital && bohemian  
-I am a coder, my lovers are alien  
+I am a coder, my lovers are alien
 
-CTRL+C : that is all  
+CTRL+C : that is all
 
-* Ninte ::: AUG-22-018 
+- Ninte ::: AUG-22-018
 
-- - -
+---
 
 ## deviant developer
 
 i am a coder, **yes**  
-me no like stress, **yes**  
+me no like stress, **yes**
 
 man used to be  
 _mighty mighty anxious_  
 used to hunt steady  
-for that nicotine fix  
+for that nicotine fix
 
 i am a coder, **yes**  
-me no like stress, **yes**  
+me no like stress, **yes**
 
 i need no more  
 to smoke, or fear  
 i can still be different  
-while breathing clean air  
+while breathing clean air
 
-* Ninte ::: AUG-16-018  
+- Ninte ::: AUG-16-018
 
-- - -
+---
 
 ## patience
 
@@ -1698,42 +2118,42 @@ while breathing clean air
 the art, the artist  
 love, and lovers  
 all exist  
-to feel, to be  
+to feel, to be
 
 the brave  
 should never fear  
 to be free
 
-* Ninte ::: AUG-03-018  
+- Ninte ::: AUG-03-018
 
 #### soul
 
 never whisper  
-your dreams  
+your dreams
 
 never offer  
 your soul, for  
-no price at all  
+no price at all
 
 it is worth, so  
 much more
 
-* Ninte ::: AUG-03-018  
+- Ninte ::: AUG-03-018
 
-- - -
+---
 
 ## haiku samurai
 
 can i make you wet  
 in two or three words  
 i must regain, my control  
-over the syllable slim  
+over the syllable slim
 
-poetry brief, is bold  
+poetry brief, is bold
 
-* Ninte ::: JUL-31-018  
+- Ninte ::: JUL-31-018
 
-- - -
+---
 
 ## the citadel
 
@@ -1741,194 +2161,194 @@ poetry brief, is bold
 
 a taste of greatness  
 was what i first sought  
-when i got into the citadel  
+when i got into the citadel
 
 a taste of meekness  
 is all i still seek  
 to rise up, from where  
-i once fell  
+i once fell
 
-* Ninte ::: JUL-25-018  
+- Ninte ::: JUL-25-018
 
 #### aqua vita
 
 water is life  
 i know no more strife  
 i have wedded peace  
-she brings me new life  
+she brings me new life
 
 each time that we tangle  
 heart with soul  
 flesh with skin  
-i learn more of wisdom  
+i learn more of wisdom
 
 we **make love**  
-sweet, _sublime_  
+sweet, _sublime_
 
-* Ninte ::: JUL-25-018  
+- Ninte ::: JUL-25-018
 
-- - -
+---
 
 ## confession
 
-i cannot promise you joy     
-for i yet still learn it     
-the road to strength, to truth     
-is full of labour and wrath     
+i cannot promise you joy  
+for i yet still learn it  
+the road to strength, to truth  
+is full of labour and wrath
 
-if you still choose to love     
-**by all means** continue along     
-just beware, i am more used to     
-the anxiety of vigour     
-than being under love's stupour     
+if you still choose to love  
+**by all means** continue along  
+just beware, i am more used to  
+the anxiety of vigour  
+than being under love's stupour
 
-i will teach you, heal you, give you     
-drops of warmth and wisdom     
-from the sun and way beyond     
-that is all i can offer, in place of love     
+i will teach you, heal you, give you  
+drops of warmth and wisdom  
+from the sun and way beyond  
+that is all i can offer, in place of love
 
-* Ninte ::: JUL-19-018    
+- Ninte ::: JUL-19-018
 
-- - -
+---
 
 ## vent
 
 #### redemption
 
-prophet prophecy     
-prophet tell a lie     
-prophet tell me why     
+prophet prophecy  
+prophet tell a lie  
+prophet tell me why
 
-i beg for redemption     
-but i am denied entrance     
-to the kingdom in the sky     
+i beg for redemption  
+but i am denied entrance  
+to the kingdom in the sky
 
-i ought to speak positive     
-i am a member of the throne of heaven     
+i ought to speak positive  
+i am a member of the throne of heaven  
 _do not ask me how, or why_
 
-* Ninte ::: JUL-19-018     
+- Ninte ::: JUL-19-018
 
 #### i hardly sleep now
 
-i code when i wake up     
-i dream in JavaScript     
-i scream into the terminal     
-that is my mind     
+i code when i wake up  
+i dream in JavaScript  
+i scream into the terminal  
+that is my mind
 
-that is how i push these poems     
-my own self-prescribed     
-literary pills     
+that is how i push these poems  
+my own self-prescribed  
+literary pills
 
-i do not strive to feel     
-the feelings come yet still     
-i know now, not to think     
-of them, at all, as real     
+i do not strive to feel  
+the feelings come yet still  
+i know now, not to think  
+of them, at all, as real
 
-* Ninte ::: JUL-19-018     			   
+- Ninte ::: JUL-19-018
 
-- - -
+---
 
 ## gemini choices
 
 #### strong++
 
-weakness is not a choice     
-not an option anymore     
-you cannot climb great mountains     
-just at the peak, to fall     
+weakness is not a choice  
+not an option anymore  
+you cannot climb great mountains  
+just at the peak, to fall
 
-you think you are so different     
-from great minds born before     
-they all did watch their demons roar     
-then beat them to the floor     
+you think you are so different  
+from great minds born before  
+they all did watch their demons roar  
+then beat them to the floor
 
-* Ninte ::: JUL-12-018     
+- Ninte ::: JUL-12-018
 
-- - -
+---
 
 #### black stoic
 
-i must withdraw     
-and only wisely pursue sensation     
-for i am too inclined     
-to quick gratification     
+i must withdraw  
+and only wisely pursue sensation  
+for i am too inclined  
+to quick gratification
 
-this is a thing,     
-that springs from the virility     
-of youth, of man     
-of passions held down     
+this is a thing,  
+that springs from the virility  
+of youth, of man  
+of passions held down
 
-i must look at my soul     
-and force it to look at me     
+i must look at my soul  
+and force it to look at me
 
-* Ninte ::: JUL-12-018     
+- Ninte ::: JUL-12-018
 
-- - -
+---
 
 ## bohemian prophecy
 
 #### the African
 
-confident as a lion     
-i will no longer shave my mane     
-to claim one is a king     
-and then to fall, are not the same     
-i must be what i choose to be     
-... do what i have to,      
-to do what i want to     
+confident as a lion  
+i will no longer shave my mane  
+to claim one is a king  
+and then to fall, are not the same  
+i must be what i choose to be  
+... do what i have to,  
+to do what i want to
 
-* Ninte ::: JUL-10-018     
+- Ninte ::: JUL-10-018
 
 #### dotcom money
 
-i code for the art of it     
-write, for the love of it     
-love, for the act of it     
-work for a simple reason     
+i code for the art of it  
+write, for the love of it  
+love, for the act of it  
+work for a simple reason  
 for the feel of paper cheddar on skin
 
-* Ninte ::: JUL-10-018     
+- Ninte ::: JUL-10-018
 
 #### godzone
 
-i have a tough yet simple     
-relationship, with the Creator     
-my Creator, a creation      
-probably, of his Creation     
+i have a tough yet simple  
+relationship, with the Creator  
+my Creator, a creation  
+probably, of his Creation
 
-when in the godzone     
-i think in colour     
-and dream in odd numbers     
-i want to be blessed, so     
-the universe I address     
+when in the godzone  
+i think in colour  
+and dream in odd numbers  
+i want to be blessed, so  
+the universe I address
 
-* Ninte ::: JUL-10-018     
+- Ninte ::: JUL-10-018
 
 #### zero hero
 
-not a saint, kind of godly     
-the first i sigh for     
-the second, i pray for     
-i collect every drop of strength     
-i have tossed into the universe     
-for She tells me, it should not     
-frighten my soul anymore     
-that i am old enough to love her now     
+not a saint, kind of godly  
+the first i sigh for  
+the second, i pray for  
+i collect every drop of strength  
+i have tossed into the universe  
+for She tells me, it should not  
+frighten my soul anymore  
+that i am old enough to love her now
 
-* Ninte ::: JUL-10-018     
+- Ninte ::: JUL-10-018
 
-- - -
+---
 
 ## rhythm
 
-smile when you see me     
-darling react. Yes, really     
-dare to make me feel     
+smile when you see me  
+darling react. Yes, really  
+dare to make me feel
 
-* Ninte ::: JUL-09-018     
+- Ninte ::: JUL-09-018
 
-- - -
+---
 
 ## jungle
 
@@ -1939,1860 +2359,1909 @@ dare to make me feel
       style="width: 200px; height: auto;" />
 </div>
 
-* Ninte ::: JUL-XX-018     
+- Ninte ::: JUL-XX-018
 
-- - -
+---
 
 ## no more white lies
 
 #### nymph
 
-what or who, do you worship     
-are you brave enough     
-to love the broken, and rough     
-**_bad gyal_**  you claim to be     
-you wild lies have no teeth     
+what or who, do you worship  
+are you brave enough  
+to love the broken, and rough  
+**_bad gyal_** you claim to be  
+you wild lies have no teeth
 
-come at me, test a poet warrior     
-twist and combine your thighs with mine     
-let us erupt an artistic volcano     
-my mind is a rabid ocean     
-you will not survive in your canoe     
+come at me, test a poet warrior  
+twist and combine your thighs with mine  
+let us erupt an artistic volcano  
+my mind is a rabid ocean  
+you will not survive in your canoe
 
-> * Ninte ::: JUL-08-018       
+> - Ninte ::: JUL-08-018
 
 #### a million
 
-can honesty fit     
-in a tight, five-lined haiku     
-thoughts roar in me     
+can honesty fit  
+in a tight, five-lined haiku  
+thoughts roar in me
 
-> * Ninte ::: JUL-08-018        
+> - Ninte ::: JUL-08-018
 
 #### crown
 
-she said, she was not a queen     
-she claimed she was too dirty-minded     
-to be that within     
-she did not believe my lies     
+she said, she was not a queen  
+she claimed she was too dirty-minded  
+to be that within  
+she did not believe my lies
 
-i am no saint     
-a crown does not mean honesty     
-i told her honestly     
-everything i did see     
-that her vanity was far deeper     
-than the oceans, than any sea     
+i am no saint  
+a crown does not mean honesty  
+i told her honestly  
+everything i did see  
+that her vanity was far deeper  
+than the oceans, than any sea
 
-> * Ninte ::: JUL-08-018     
+> - Ninte ::: JUL-08-018
 
-- - -
+---
 
 ## strength
 
-i feel the weakness     
-of my wrong decisions     
-it will be dealt with     
-without resolutions     
+i feel the weakness  
+of my wrong decisions  
+it will be dealt with  
+without resolutions
 
-i will redeem my fire     
-the strength that i desire     
-it will come to me     
-as surely as blessings     
-from clouds on high     
+i will redeem my fire  
+the strength that i desire  
+it will come to me  
+as surely as blessings  
+from clouds on high
 
-* Ninte ::: JUL-08-018        
+- Ninte ::: JUL-08-018
 
-- - -
+---
 
 ## enter my universe
 
 #### venus
 
-i do not want a girlfriend     
-_that's childish_     
-i want a **lover**     
-_that's grown sh!t_     
+i do not want a girlfriend  
+_that's childish_  
+i want a **lover**  
+_that's grown sh!t_
 
-i want my moon     
-to tickle a star     
-i want a sun     
-to wrap around     
-my cold heart     
-and kiss me with warmth     
+i want my moon  
+to tickle a star  
+i want a sun  
+to wrap around  
+my cold heart  
+and kiss me with warmth
 
-* Ninte ::: JUL-07-018     
+- Ninte ::: JUL-07-018
 
-...     
-..     
-.     
+...  
+..  
+.
 
 #### pluto
 
-love is for **the brave**     
-and the brave don't sleep     
-... the brave don't keep     
-what they _don't need to_     
-... the brave don't _weep_     
+love is for **the brave**  
+and the brave don't sleep  
+... the brave don't keep  
+what they _don't need to_  
+... the brave don't _weep_
 
-* Ninte ::: JUL-07-018     
+- Ninte ::: JUL-07-018
 
-...     
-..     
-.     
+...  
+..  
+.
 
 #### uranus
 
-we dance close to the sun      
-nearer to the moon though      
-for **love is** lunacy      
-and a heavenly **fantasy**      
+we dance close to the sun  
+nearer to the moon though  
+for **love is** lunacy  
+and a heavenly **fantasy**
 
-but i can promise nothing      
-i am darker than eternity      
-the joy of life, the pain of love      
-sound alike to me      
+but i can promise nothing  
+i am darker than eternity  
+the joy of life, the pain of love  
+sound alike to me
 
-* Ninte ::: JUL-07-018     
+- Ninte ::: JUL-07-018
 
-- - -
+---
 
 ## moist
 
-to speak to my readers     
-the _young_ and **bold**     
-of desire, would be     
-to preach to the choir     
+to speak to my readers  
+the _young_ and **bold**  
+of desire, would be  
+to preach to the choir
 
-we seek in the hearts     
-of our lovers, nothing but warmth     
-in the lips of our heart-throbs     
-a liquor pure and hot     
-between the thighs     
-of our flings, something nice     
+we seek in the hearts  
+of our lovers, nothing but warmth  
+in the lips of our heart-throbs  
+a liquor pure and hot  
+between the thighs  
+of our flings, something nice
 
-* Ninte ::: JUL-06-018           
+- Ninte ::: JUL-06-018
 
-- - -
+---
 
 ## july 5th 2018
 
-every time thunder     
-kisses the night sky     
-the stars shift with grace     
-i hear the heavens sigh     
+every time thunder  
+kisses the night sky  
+the stars shift with grace  
+i hear the heavens sigh
 
-two perfect lovers     
-one inconsistent, shy     
-one dark and sure     
-their love, both bold and pure     
+two perfect lovers  
+one inconsistent, shy  
+one dark and sure  
+their love, both bold and pure
 
-* Ninte 07-05-018     
+- Ninte 07-05-018
 
-- - -
+---
 
 ## pipe no longer smokes
 
-the moniker holds no meaning     
-games are for the weak     
-a name is nothing to play with     
-i bear mine, and lose no sleep     
+the moniker holds no meaning  
+games are for the weak  
+a name is nothing to play with  
+i bear mine, and lose no sleep
 
-* Ninte 07-05-018
+- Ninte 07-05-018
 
-- - -
+---
 
 ## shall i speak of love
 
-when a boy     
-I wanted a father     
+when a boy  
+I wanted a father
 
-now a man     
-I search for a lover     
-one to bless with kisses     
-of philosophy and bliss     
+now a man  
+I search for a lover  
+one to bless with kisses  
+of philosophy and bliss
 
-a warm soul     
-like no other     
+a warm soul  
+like no other
 
-* Ninte 06-22-018   
+- Ninte 06-22-018
 
-- - -
+---
 
 ## when i was low
 
-- - -
+---
 
 #### gravitated
 
-> **_i am great_**     
+> **_i am great_**
 
-i whisper in my mind     
-all alone in the universe     
-but i am just a teen     
+i whisper in my mind  
+all alone in the universe  
+but i am just a teen
 
-> **_i am great_**     
+> **_i am great_**
 
-i want to believe     
-as i write this     
-i am alone on a field     
+i want to believe  
+as i write this  
+i am alone on a field
 
-> **_i am great_**     
+> **_i am great_**
 
-but my worth is in the stars     
-and i am on earth     
+but my worth is in the stars  
+and i am on earth  
 on dust and stone, far from home
 
-> **_i am great_**     
+> **_i am great_**
 
-but who cares in truth     
-o breathe in smoke     
-to ease the pain     
+but who cares in truth  
+o breathe in smoke  
+to ease the pain
 
-> **_i am great_**     
+> **_i am great_**
 
-but talk too much     
-but feel too much     
-will this gravitated pain, ever stop     
+but talk too much  
+but feel too much  
+will this gravitated pain, ever stop
 
-* Ninte 06-04-018    
+- Ninte 06-04-018
 
-- - -
+---
 
 #### rooftop
 
-next and first     
-time i make love     
-it will be beneath the sky     
-on an elevated level     
-the simple will call a roof     
+next and first  
+time i make love  
+it will be beneath the sky  
+on an elevated level  
+the simple will call a roof
 
-i will be high     
-on a love potion     
-of wine and lean     
-i will forever afterwards     
-become of poetry, a god     
+i will be high  
+on a love potion  
+of wine and lean  
+i will forever afterwards  
+become of poetry, a god
 
-* Ninte 06-04-018    
+- Ninte 06-04-018
 
-- - -
+---
 
 #### sparrows
 
-on a wire line     
-seem at peace, and very kind     
-they seem so happy     
+on a wire line  
+seem at peace, and very kind  
+they seem so happy
 
-* Ninte 06-04-018    
+- Ninte 06-04-018
 
-- - -
+---
 
 #### calmer than stone
 
-my special yellow pill     
-makes me hungry     
-and inclined to sleep     
-makes me inclined to weep     
+my special yellow pill  
+makes me hungry  
+and inclined to sleep  
+makes me inclined to weep
 
-if i were a bird     
-i would never fly.     
-even with wings     
-larger than the sky     
-i would be too shy to fly     
+if i were a bird  
+i would never fly.  
+even with wings  
+larger than the sky  
+i would be too shy to fly
 
-no one understands me     
-so i will withdraw     
-not into a shell, that is but hell     
+no one understands me  
+so i will withdraw  
+not into a shell, that is but hell
 
-solid i shall be     
-i know nothing yet     
+solid i shall be  
+i know nothing yet
 
-of the true me     
+of the true me
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 ## just zip it
 
-- - -
+---
 
 #### why speak
 
-i seem weak     
-even with my     
-metal soul     
-even with     
-my liquid heart     
+i seem weak  
+even with my  
+metal soul  
+even with  
+my liquid heart
 
-my mind is broken     
-i have pushed my     
-muse away. What     
-else need be spoken     
+my mind is broken  
+i have pushed my  
+muse away. What  
+else need be spoken
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 #### silence breathes
 
-i need to be     
-who i am, really     
-i have to be     
-who i am not, really     
+i need to be  
+who i am, really  
+i have to be  
+who i am not, really
 
-lock away     
-my beautiful     
-ordinary ways     
-silence raves     
+lock away  
+my beautiful  
+ordinary ways  
+silence raves
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 #### zip it, lock it, toss it
 
-baby please forgive     
-me for my folly     
-you did no     
-wrong     
+baby please forgive  
+me for my folly  
+you did no  
+wrong
 
-sorry     
-i am just     
-a man of worry     
-i slip as i grieve     
+sorry  
+i am just  
+a man of worry  
+i slip as i grieve
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 ## life choices
 
-- - -
+---
 
 #### got me here
 
-so i do not care     
-cannot have a fear     
-when to no one     
-i am truly dear     
+so i do not care  
+cannot have a fear  
+when to no one  
+i am truly dear
 
-i am brave i know     
-for i can call     
-and dismiss     
-my soul     
+i am brave i know  
+for i can call  
+and dismiss  
+my soul
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 #### dry heart
 
-my blood is cool,     
-a beautiful type     
-of eager drudgery     
+my blood is cool,  
+a beautiful type  
+of eager drudgery
 
-my love is an edged,     
-crooked type     
-of honest pottery     
+my love is an edged,  
+crooked type  
+of honest pottery
 
-* Ninte 06-04-018  
+- Ninte 06-04-018
 
-- - -
+---
 
 #### polymath blues
 
-i do too many things     
-i wear upon my head     
-holy banded rings     
+i do too many things  
+i wear upon my head  
+holy banded rings
 
-enough crowns     
-can cripple the mind     
-and turn an able king     
-into the loudest     
-of clowns     
+enough crowns  
+can cripple the mind  
+and turn an able king  
+into the loudest  
+of clowns
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 #### soul-ache
 
-i know not     
-how to smile     
-without misery     
-how to paint a lie     
-light and lovely     
+i know not  
+how to smile  
+without misery  
+how to paint a lie  
+light and lovely
 
-right and justly     
-have i     
-been treated, fairly     
-by the forces     
-of love. Here i _sigh_     
+right and justly  
+have i  
+been treated, fairly  
+by the forces  
+of love. Here i _sigh_
 
-* Ninte 06-04-018     
+- Ninte 06-04-018
 
-- - -
+---
 
 ## torch
 
-i burn away     
-this night, this day     
-all shame - the way     
-i once did     
-choose to sway     
+i burn away  
+this night, this day  
+all shame - the way  
+i once did  
+choose to sway
 
-i ignite within     
-the torch of truth     
-i shall wear it bold     
-upon my soul's     
-very cold, tooth     
+i ignite within  
+the torch of truth  
+i shall wear it bold  
+upon my soul's  
+very cold, tooth
 
-* Ninte 06-04-018
+- Ninte 06-04-018
 
 ---
 
 ## Mark My Words
 
-If I ever left a permanent mark on my skin because of you       
-Then know I loved you       
-Know that you hurt me and disappointed      
-Know that each mark represents every time you left me       
-Know that you're killing me without even knowing it     
+If I ever left a permanent mark on my skin because of you  
+Then know I loved you  
+Know that you hurt me and disappointed  
+Know that each mark represents every time you left me  
+Know that you're killing me without even knowing it
 
-* Ninte 05-09-018          
+- Ninte 05-09-018
 
-- - -
+---
 
 ## hunger
 
-not for food      
-but for prophecy      
+not for food  
+but for prophecy
 
-no to be loved      
-but to give greatly     
+no to be loved  
+but to give greatly
 
-not for money     
-but for blessed glory     
+not for money  
+but for blessed glory
 
-* Ninte 05-06-018     
+- Ninte 05-06-018
 
-- - -
+---
 
 ## in the storm
 
-blazing, truly amazing      
-in the cold, yet still bold     
-i no longer subscribe     
-to all the lies that they told      
+blazing, truly amazing  
+in the cold, yet still bold  
+i no longer subscribe  
+to all the lies that they told
 
-> that i might not be that great      
-> that i have to stop low     
-> ... to suckle on my fate      
+> that i might not be that great  
+> that i have to stop low  
+> ... to suckle on my fate
 
-they will not soon know     
-the wonder that i birth     
-and then when they do     
-they will plead, but waste breath     
+they will not soon know  
+the wonder that i birth  
+and then when they do  
+they will plead, but waste breath
 
-* Ninte 05-05-018   
-- - -
+- Ninte 05-05-018
+
+---
 
 ## i have lost the cocoon
 
-- - -
+---
 
 #### mad butterfly free
 
-kaleidoscope fantasies      
-keep a broken prophet afloat      
-keep my ever sharpened    
-dagger-like mind      
-off my soul's throat     
+kaleidoscope fantasies  
+keep a broken prophet afloat  
+keep my ever sharpened  
+dagger-like mind  
+off my soul's throat
 
-* Ninte 04-29-018     
+- Ninte 04-29-018
 
-- - -
+---
 
 #### hey there
 
-girl who ran away     
-when i simply     
-wanted to fetch a shirt or two      
-from off, the unisex dorm clothe line      
+girl who ran away  
+when i simply  
+wanted to fetch a shirt or two  
+from off, the unisex dorm clothe line
 
-i can not blame     
-you. It was midnight      
-i was in a tracksuit and a dark hat     
-plus i walk deadly      
+i can not blame  
+you. It was midnight  
+i was in a tracksuit and a dark hat  
+plus i walk deadly
 
-* Ninte 04-29-018     
+- Ninte 04-29-018
 
-- - -
+---
 
 #### i know, i do
 
-that i am great      
-that i hold my fate     
-in the same hand      
-i construct this poetry with      
+that i am great  
+that i hold my fate  
+in the same hand  
+i construct this poetry with
 
-like a soul with      
-a one-eye mind      
-i should not debate     
-with the guard, of      
-my blackened heart's gate     
+like a soul with  
+a one-eye mind  
+i should not debate  
+with the guard, of  
+my blackened heart's gate
 
-* Ninte 04-29-018     
+- Ninte 04-29-018
 
-- - -
+---
 
 #### what she said
 
-> called me a loner      
+> called me a loner
 
-close friend of the muse      
-i am still inclined to adore     
+close friend of the muse  
+i am still inclined to adore
 
-even when she     
-leaves me in my agony for him     
-i can trust     
-she believes i can be more      
+even when she  
+leaves me in my agony for him  
+i can trust  
+she believes i can be more
 
-> called me boring      
+> called me boring
 
-when i think in every colour      
-of the most twisted monochromatic rainbow     
+when i think in every colour  
+of the most twisted monochromatic rainbow
 
-i do not try to repent      
-of the anguish that i repress     
-for even gods weep      
-and some still have much fear     
+i do not try to repent  
+of the anguish that i repress  
+for even gods weep  
+and some still have much fear
 
-* Ninte 04-29-018     
+- Ninte 04-29-018
 
-- - -
+---
 
 ## wait for my hair to grow
 
-then you will know      
-the manner of       
-**this** ancient bloody flow      
-**this** beauty that is my pain     
+then you will know  
+the manner of  
+**this** ancient bloody flow  
+**this** beauty that is my pain
 
-_that_ boy you thought was nothing      
-_that_ genius you left, with no loving      
-you will learn that i am golden     
-broken, wavy and holy     
+_that_ boy you thought was nothing  
+_that_ genius you left, with no loving  
+you will learn that i am golden  
+broken, wavy and holy
 
-* Ninte 04-29-018     
+- Ninte 04-29-018
 
-- - -
+---
 
 ## rainy days
 
-- - -
+---
 
 #### sorry, nah
 
-to everybody      
-to nobody, sincerely      
-aint apologizing      
+to everybody  
+to nobody, sincerely  
+aint apologizing
 
-for shit you dont like      
-for love you dont have      
-bye-bye one minute darling    
+for shit you dont like  
+for love you dont have  
+bye-bye one minute darling
 
-* Ninte 04-13-018
+- Ninte 04-13-018
 
-- - -
+---
 
 #### vegetarian
 
-for a year      
-clean blood for two     
-no toxins or nothing    
-no lean or nothing      
-no nicotine     
+for a year  
+clean blood for two  
+no toxins or nothing  
+no lean or nothing  
+no nicotine
 
 **_thats something_**
 
-so you hear     
-i have no fear      
-with a cross on my wrist      
-i cant stand fake gist      
-cause Christ didnt die for eish     
+so you hear  
+i have no fear  
+with a cross on my wrist  
+i cant stand fake gist  
+cause Christ didnt die for eish
 
 **_thats something_**
 
-* Ninte 04-13-018
+- Ninte 04-13-018
 
-- - -
+---
 
 #### propane
 
-shadows in my brain       
-mock my pain        
-**...** and again       
+shadows in my brain  
+mock my pain  
+**...** and again
 
-i must refrain      
-from breathing propane      
-if i keep thinking fire insane      
-i might pop a mental vein     
+i must refrain  
+from breathing propane  
+if i keep thinking fire insane  
+i might pop a mental vein
 
-* Ninte 04-13-018
+- Ninte 04-13-018
 
-- - -
+---
 
 ## salvation
 
-is for the hopeful        
-i am too inclined to holy folly     
-i know my sins      
-are not that gnarly     
+is for the hopeful  
+i am too inclined to holy folly  
+i know my sins  
+are not that gnarly
 
-am i to be saved      
-or be repraved      
+am i to be saved  
+or be repraved
 
-* Ninte 04-09-018
+- Ninte 04-09-018
 
-- - -
+---
 
 ## nothing
 
-can save me       
-**change** me       
+can save me  
+**change** me
 
-not even        
-the cold hands        
-of a former lover       
+not even  
+the cold hands  
+of a former lover
 
-_nothing_       
-can save me       
-**change** me       
+_nothing_  
+can save me  
+**change** me
 
-* Ninte 04-09-018     
+- Ninte 04-09-018
 
-- - -
+---
 
 ## trascend
 
-- - -
+---
 
 #### amadioha
 
-the world is simple       
-i know this, deep within i fear       
-the game has changed        
-the new altar is the internet       
+the world is simple  
+i know this, deep within i fear  
+the game has changed  
+the new altar is the internet
 
-blood is not african polite       
-so data be the sacrifice        
-do you pray in mb       
-or in gigabytes       
+blood is not african polite  
+so data be the sacrifice  
+do you pray in mb  
+or in gigabytes
 
-* Ninte 04-09-018     
+- Ninte 04-09-018
 
-- - -
+---
 
 #### zamunda
 
-what if you were a king       
-or a queen with a crown and a ring        
-what if you were a royal        
-with friends like family, loyal       
+what if you were a king  
+or a queen with a crown and a ring  
+what if you were a royal  
+with friends like family, loyal
 
-what if you were invisible        
-an intellectual, lost amid the chaos        
-what if you were simple       
-would you not still be african        
+what if you were invisible  
+an intellectual, lost amid the chaos  
+what if you were simple  
+would you not still be african
 
-**_grow from negro_**       
-**_to negus for your negast_**        
+**_grow from negro_**  
+**_to negus for your negast_**
 
-* Ninte 04-09-018         
+- Ninte 04-09-018
 
-- - -
+---
 
 ## why i smoke
 
-> to choke        
-the pain within me ...        
-> to stroke     
-the heart of my humanity        
+> to choke  
+> the pain within me ...  
+> to stroke  
+> the heart of my humanity
 
-i no longer feel        
-the blessed touch of vanity     
-i am indifferent now        
-i no longer need to     
-_puffs_ ... smoke       
-**coughs**      
+i no longer feel  
+the blessed touch of vanity  
+i am indifferent now  
+i no longer need to  
+_puffs_ ... smoke  
+**coughs**
 
-* Ninte 04-03-018     
+- Ninte 04-03-018
 
-- - -
+---
 
 ## mirrors
 
-when a soul         
-like mine i saw         
-i felt some joy         
-but life is coy         
+when a soul  
+like mine i saw  
+i felt some joy  
+but life is coy
 
-my new muse         
-is a regal woman        
-no simple child         
-a true human        
+my new muse  
+is a regal woman  
+no simple child  
+a true human
 
-* Ninte 04-03-018     
+- Ninte 04-03-018
 
-- - -
+---
 
 ## new week
 
-- - -
+---
 
 #### mystery
 
-on a high stallion          
-went to secure          
-the blessings           
-of Saint Nico           
+on a high stallion  
+went to secure  
+the blessings  
+of Saint Nico
 
-at the edge         
-of the group            
-in a room           
-i feel the gloom            
+at the edge  
+of the group  
+in a room  
+i feel the gloom
 
-* Ninte 04-03-018     
+- Ninte 04-03-018
 
-- - -
+---
 
 #### medusa
 
-has mystique            
-a quality           
-regal like cleo         
+has mystique  
+a quality  
+regal like cleo
 
-blinds a normal man         
-melanin blessed         
-by the African sun          
+blinds a normal man  
+melanin blessed  
+by the African sun
 
-* Ninte 04-03-018     
+- Ninte 04-03-018
 
-- - -
+---
 
 ## bread and water
 
-that feeling of being artistic          
-that borders on madness,            
-far from realistic          
+that feeling of being artistic  
+that borders on madness,  
+far from realistic
 
-that makes the simple           
-to feel they are kingly         
-that waters pure folly          
-and ruins humanity          
+that makes the simple  
+to feel they are kingly  
+that waters pure folly  
+and ruins humanity
 
-**_it now haunts me_**          
-**_shall i fall or stand_**         
+**_it now haunts me_**  
+**_shall i fall or stand_**
 
-that feeling of being artistic          
-that helps the weak         
-feel strong, and more than heroic           
+that feeling of being artistic  
+that helps the weak  
+feel strong, and more than heroic
 
-that makes the broken           
-rise and scream prophecy            
-that trims off all evil         
-from the soul of man            
+that makes the broken  
+rise and scream prophecy  
+that trims off all evil  
+from the soul of man
 
-**_it now haunts me_**          
-**_shall i fall or stand_**         
+**_it now haunts me_**  
+**_shall i fall or stand_**
 
-* Ninte 04-03-018     
+- Ninte 04-03-018
 
-- - -
+---
 
 ## east to west
 
-- - -
+---
 
 #### Just right
 
-I’m not even sure how all this ties up,       
-To make sense but it feels right,       
-With knees to the ground and eyes up,       
-It just feels right.        
+I’m not even sure how all this ties up,  
+To make sense but it feels right,  
+With knees to the ground and eyes up,  
+It just feels right.
 
-With every mistake made and repeated,       
-Lessons not learnt and mind undefeated,       
-Repentance, repentance, secreted,       
-It all feels just right.        
+With every mistake made and repeated,  
+Lessons not learnt and mind undefeated,  
+Repentance, repentance, secreted,  
+It all feels just right.
 
-Encounter upon departure,       
-Departure upon merger,        
-Tightly-knit circles,       
-Now this, this feels quite right.       
+Encounter upon departure,  
+Departure upon merger,  
+Tightly-knit circles,  
+Now this, this feels quite right.
 
-Loyalty to betrayal,        
-There’s never a round for trials,       
-Only those that are tribulations,       
-The test run is the actual situation,       
-Calculate your risks,       
-Even if you don’t,        
-At some point,      
-You can get used to anything,       
-It will all feel just right.        
+Loyalty to betrayal,  
+There’s never a round for trials,  
+Only those that are tribulations,  
+The test run is the actual situation,  
+Calculate your risks,  
+Even if you don’t,  
+At some point,  
+You can get used to anything,  
+It will all feel just right.
 
-* Ninte 03-31-018     
+- Ninte 03-31-018
 
-- - - -
+---
 
 #### How to cook pride
 
-Chop it into pieces,      
-Stir it up in a bowl,       
-Boil it,        
-Sprinkle a spice here, a tear there,            
-Marinade it in justification and excuses,       
-Preheat your Dutch oven         
-that is you ever-so-accurate mind,      
-With a side of your largest ego,        
-You can butter the pan with the         
-lies that you tell yourself,        
+Chop it into pieces,  
+Stir it up in a bowl,  
+Boil it,  
+Sprinkle a spice here, a tear there,  
+Marinade it in justification and excuses,  
+Preheat your Dutch oven  
+that is you ever-so-accurate mind,  
+With a side of your largest ego,  
+You can butter the pan with the  
+lies that you tell yourself,
 
-Fry it if you want,         
-Deep-fry it in the depth        
-of all the disappointment,      
-As the snaps of their heart         
-breaks echo from the fire,      
+Fry it if you want,  
+Deep-fry it in the depth  
+of all the disappointment,  
+As the snaps of their heart  
+breaks echo from the fire,
 
-After you have done all this,       
-Or whichever you please,        
-You may swallow it.     
-And wash it down with a tall glass       
-of that ice-cold heart.     
+After you have done all this,  
+Or whichever you please,  
+You may swallow it.  
+And wash it down with a tall glass  
+of that ice-cold heart.
 
-* Ninte 03-31-018     
+- Ninte 03-31-018
 
-- - -
+---
 
 #### Power to will
 
-Discipline,         
-Is the power of willpower,          
-The power to will your mind into        
-selectively choosing what is right for you,     
-Even when what is right for you         
-is not what is easy for you,        
-Even when what is right for you         
-might not be what is good for you,      
-At the time,        
-Even when what is right for you      
-might just be what brings you pain,     
-Even when what is right for         
-might not actually be right for you but right for,      
-Him, for her, for them.     
+Discipline,  
+Is the power of willpower,  
+The power to will your mind into  
+selectively choosing what is right for you,  
+Even when what is right for you  
+is not what is easy for you,  
+Even when what is right for you  
+might not be what is good for you,  
+At the time,  
+Even when what is right for you  
+might just be what brings you pain,  
+Even when what is right for  
+might not actually be right for you but right for,  
+Him, for her, for them.
 
-The power to will your mind         
-into choosing tomorrow over today,      
-To look up from your screen         
-so you can see the bigger picture.      
+The power to will your mind  
+into choosing tomorrow over today,  
+To look up from your screen  
+so you can see the bigger picture.
 
-* Ninte 03-31-018     
+- Ninte 03-31-018
 
-- - -
+---
 
-#### Get to know you        
+#### Get to know you
 
-The most fun I have ever had            
- is getting to know me,         
-For me,         
-Through me,         
-Through God.            
+The most fun I have ever had  
+ is getting to know me,  
+For me,  
+Through me,  
+Through God.
 
-My likes, my dislikes,          
-My path …           
-Without the pressure and noise          
-from the buzzing of notifications,          
-Without justifying me           
-and actually being true to me.          
+My likes, my dislikes,  
+My path …  
+Without the pressure and noise  
+from the buzzing of notifications,  
+Without justifying me  
+and actually being true to me.
 
-Without feeling the need            
-to be complemented by anything or anyone,           
-Rushed by anything,         
-Compared, measured,         
-Genuinely living for me,            
-It is like an extra Sunday to the week,         
-Like the extra five minutes in the morning,         
-Like always being on top of your own peak,          
-And like the nightingale, I will sing,              
-The song of my rejoice that need not be sung,           
-For it is its own anthem.           
+Without feeling the need  
+to be complemented by anything or anyone,  
+Rushed by anything,  
+Compared, measured,  
+Genuinely living for me,  
+It is like an extra Sunday to the week,  
+Like the extra five minutes in the morning,  
+Like always being on top of your own peak,  
+And like the nightingale, I will sing,  
+The song of my rejoice that need not be sung,  
+For it is its own anthem.
 
-* Ninte 03-31-018         
+- Ninte 03-31-018
 
-- - -
+---
 
 ## lost heroes
 
-- - -
+---
 
 #### artsy heart
 
-life is a tart        
-i doubt that i have       
-eaten one       
+life is a tart  
+i doubt that i have  
+eaten one
 
-_yet still_       
-_imagine it apart_        
+_yet still_  
+_imagine it apart_
 
-all torn up       
-in front of you        
-showing you secrets       
-what do you do        
+all torn up  
+in front of you  
+showing you secrets  
+what do you do
 
-_yet still_       
-_imagine it apart_        
+_yet still_  
+_imagine it apart_
 
-how do you do       
-what you should do        
-seems like life       
-is fucked from the start        
+how do you do  
+what you should do  
+seems like life  
+is fucked from the start
 
-_yet still_       
-_imagine it apart_        
+_yet still_  
+_imagine it apart_
 
-life is like an egg       
-i eat these often       
-they are good for the heart       
+life is like an egg  
+i eat these often  
+they are good for the heart
 
-_       
-* Ninte 03-26-018    
+\_
 
-- - -
+- Ninte 03-26-018
+
+---
 
 #### proud dropout
 
-picked letting my sis       
-grow smarter, over        
-some dumb paper       
+picked letting my sis  
+grow smarter, over  
+some dumb paper
 
-i was **top** of a division       
-of a form, they made cause        
-i studied maths and history       
+i was **top** of a division  
+of a form, they made cause  
+i studied maths and history
 
-_got first place, first term_       
-_then **left**_         
+_got first place, first term_  
+_then **left**_
 
-_       
-* Ninte 03-26-018    
+\_
 
-- - -
+- Ninte 03-26-018
+
+---
 
 #### eastern city flows
 
-i lived in the land       
-of **_ndizi_** and **_chapati_**        
-i am a wanderer       
-i am not just talking       
+i lived in the land  
+of **_ndizi_** and **_chapati_**  
+i am a wanderer  
+i am not just talking  
 **sipigi kelele**
 
-i laugh as i write this       
-confused just as i was        
-back then when life was       
-much simpler, when ties         
-were held up with smiles,       
-instead of lies       
+i laugh as i write this  
+confused just as i was  
+back then when life was  
+much simpler, when ties  
+were held up with smiles,  
+instead of lies
 
-_       
-* Ninte 03-26-018    
+\_
 
-- - -
+- Ninte 03-26-018
+
+---
 
 #### tape covered notes
 
-with you did i      
-first know love     
-intimate and timid      
-with you did i      
-first know loss     
+with you did i  
+first know love  
+intimate and timid  
+with you did i  
+first know loss
 
-_       
-* Ninte 03-26-018    
+\_
 
-- - -
+- Ninte 03-26-018
+
+---
 
 ## peacock soul
 
-- - -
+---
 
-####  watch me dazzle
+#### watch me dazzle
 
-i walk the simple way       
-of an angel, that does not pray     
-i know my path      
-i move now with decision      
+i walk the simple way  
+of an angel, that does not pray  
+i know my path  
+i move now with decision
 
-cut at my folly like a surgeon      
-you might not believe this      
-you who judge me      
+cut at my folly like a surgeon  
+you might not believe this  
+you who judge me
 
-i do so too      
-i also think my mind is ugly      
-indifference saved me     
-_from you and i_      
-taught me not to blink, as i fly      
+i do so too  
+i also think my mind is ugly  
+indifference saved me  
+_from you and i_  
+taught me not to blink, as i fly
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 #### dreadlocks
 
-my hair is messy now      
-in an afro frown     
-with nappy curls      
-pure as the first     
-african god's smile     
+my hair is messy now  
+in an afro frown  
+with nappy curls  
+pure as the first  
+african god's smile
 
-bless me whomsoever     
-is in charge of it all      
-i feel free, without worry      
+bless me whomsoever  
+is in charge of it all  
+i feel free, without worry
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 #### sleep like death
 
-forget the title      
-this is a happy poem      
-this is a mental totem      
+forget the title  
+this is a happy poem  
+this is a mental totem
 
-i sleep like my soul      
-is more than exhausted      
-i have had to ignore Saint Nico     
-his once holy kiss     
-now poisons     
+i sleep like my soul  
+is more than exhausted  
+i have had to ignore Saint Nico  
+his once holy kiss  
+now poisons
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 #### long sleeves
 
-i feel like the chains        
-i painted on my skin      
-have washed away      
+i feel like the chains  
+i painted on my skin  
+have washed away
 
-the sweat and blood     
-of murdered dreams      
-beat loud enough within     
+the sweat and blood  
+of murdered dreams  
+beat loud enough within  
 me, to awaken my soul
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 ## song of modern icarus
 
-i fall then       
-pretend       
-to repent         
+i fall then  
+pretend  
+to repent
 
-do not go       
-too close to angels       
-their lovers        
-tend to fall        
+do not go  
+too close to angels  
+their lovers  
+tend to fall
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 ## be not deceived
 
-i am **far** from common        
-i am **near** genius        
-i am a creator        
-i build and destroy       
+i am **far** from common  
+i am **near** genius  
+i am a creator  
+i build and destroy
 
-i am not a boy        
-a man was i from birth        
-i never had a childhood       
-i thought with        
-too much **depth**        
+i am not a boy  
+a man was i from birth  
+i never had a childhood  
+i thought with  
+too much **depth**
 
-_       
-* Ninte 03-22-018    
+\_
 
-- - -
+- Ninte 03-22-018
+
+---
 
 #### maybe this is meant to be
 
-**_maybe_**  i am meant     
-to be alone and godly     
-**_maybe_**  i am meant     
-to have no one to love me     
-**_maybe_**  i am more      
-than ugly - but dont know this    
+**_maybe_** i am meant  
+to be alone and godly  
+**_maybe_** i am meant  
+to have no one to love me  
+**_maybe_** i am more  
+than ugly - but dont know this
 
-**_maybe_** **_maybe_** **_maybe_**       
+**_maybe_** **_maybe_** **_maybe_**
 
-_       
-* Ninte          
-03-22-018    
+\_
 
-- - -
+- Ninte  
+  03-22-018
+
+---
 
 ## waterfall
 
-- - -
+---
 
 #### the wash
 
-life is but a journery      
-taken by the brave      
-and emotionally weak      
+life is but a journery  
+taken by the brave  
+and emotionally weak
 
-i would say     
-like a rollercoaster too      
-_but i have never been on one_      
+i would say  
+like a rollercoaster too  
+_but i have never been on one_
 
-_       
-* Ninte          
-03-22-018    
+\_
 
-- - -
+- Ninte  
+  03-22-018
+
+---
 
 #### drowning happy
 
-wash your soul      
-in the rivers     
-of euphoria     
+wash your soul  
+in the rivers  
+of euphoria
 
-eat like a baby     
-feel wavy     
-learn your weaknesses     
-then train your demons      
+eat like a baby  
+feel wavy  
+learn your weaknesses  
+then train your demons
 
-_       
-* Ninte          
-03-22-018    
+\_
 
-- - -
+- Ninte  
+  03-22-018
+
+---
 
 #### reason to fly
 
-**do i need**     
-in truth, a reason to fly     
-**do i need**     
-in truth, a reason to lie     
+**do i need**  
+in truth, a reason to fly  
+**do i need**  
+in truth, a reason to lie
 
-_to myself_     
-_to my mother_      
-_to my father_      
-_to my lover:_ to be      
+_to myself_  
+_to my mother_  
+_to my father_  
+_to my lover:_ to be
 
-why can i not      
-like the ugly, just be      
+why can i not  
+like the ugly, just be
 
-_       
-* Ninte          
-03-22-018    
+\_
 
-- - -
+- Ninte  
+  03-22-018
+
+---
 
 ## achy breaky heart
 
-i know why girls      
-think i am rare     
-but common      
+i know why girls  
+think i am rare  
+but common
 
-it is cause     
-i drag my clouds      
-through the dust      
+it is cause  
+i drag my clouds  
+through the dust
 
-so they think i    
-am but a pretty baked morsel      
+so they think i  
+am but a pretty baked morsel  
 **_with no crust_**
 
-_       
-* Ninte     
-03-21-018    
+\_
 
-- - -
+- Ninte  
+  03-21-018
+
+---
 
 ## five simple minds
 
-- - -
+---
 
 #### dark web
 
-what is life, what is love          
-tell me if you know         
-what's a crow, what's a dove            
-tell me if you know         
+what is life, what is love  
+tell me if you know  
+what's a crow, what's a dove  
+tell me if you know
 
-the way a beat does         	
-wrap itself around a soul, if you know          	
-tell me if you know         	
+the way a beat does
+wrap itself around a soul, if you know
+tell me if you know
 
-all we can ever do,         
-is ride low         	
-there is no black         
-son of god, no dark apostle         	
+all we can ever do,  
+is ride low
+there is no black  
+son of god, no dark apostle
 
-but i hold it not against any religion	       			
-you see, its all supertition            
+but i hold it not against any religion
+you see, its all supertition
 
-**_what if god lives in the internet_**         	
-**_that is heaven's best bet_**         
+**_what if god lives in the internet_**
+**_that is heaven's best bet_**
 
-_       
-* Ninte
-02-28-018    
+\_
 
-- - -
+- Ninte
+  02-28-018
+
+---
 
 #### prince turned king
 
-I remain hidden in fluctuating        
-shades of grey and black        
+I remain hidden in fluctuating  
+shades of grey and black
 
-Horrified by the slaughter of my people       
-Horrified by the slaughter of my kind       
+Horrified by the slaughter of my people  
+Horrified by the slaughter of my kind
 
-I remain hidden for fear of my demise         
-And with pain I watch as my father is also        
-Slain       
+I remain hidden for fear of my demise  
+And with pain I watch as my father is also  
+Slain
 
-The crown falls from atop his head        
-immediately I'm sure he is dead         
-Cause the African holds on to the crown till death        
+The crown falls from atop his head  
+immediately I'm sure he is dead  
+Cause the African holds on to the crown till death
 
-Still in motion the crown         
-finds my hiding place and         
-stops it's movement at my feet        
+Still in motion the crown  
+finds my hiding place and  
+stops it's movement at my feet
 
-I was a prince but now I am king        
+I was a prince but now I am king
 
-_       
-* Ninte     
-02-28-018    
+\_
 
-- - -
+- Ninte  
+  02-28-018
+
+---
 
 ## fool no more
 
-i am a fool no more         
-life is cool no more        
-i stare at reality        
-angry and calm        
+i am a fool no more  
+life is cool no more  
+i stare at reality  
+angry and calm
 
-i count my sins       
-they climb up to the stars.       
-nothing soothes       
-no one can choose       
-the darkness of their soul        
+i count my sins  
+they climb up to the stars.  
+nothing soothes  
+no one can choose  
+the darkness of their soul
 
-momma wants me to be holy       
-poppa just wants me to be         
-yet he is never around me       
+momma wants me to be holy  
+poppa just wants me to be  
+yet he is never around me
 
-there is no one to ease       
-i seek no longer to please        
+there is no one to ease  
+i seek no longer to please
 
-_       
-* Ninte     
-02-23-018    
+\_
 
-- - -
+- Ninte  
+  02-23-018
+
+---
 
 ## save me
 
-no one at all       
-i desire nothing now      
-but to bask     
-in the silence of my sin      
-what say you      
-will you come too ...       
+no one at all  
+i desire nothing now  
+but to bask  
+in the silence of my sin  
+what say you  
+will you come too ...
 
-_       
-* Ninte  
-02-19-018    
+\_
 
-- - -
+- Ninte  
+  02-19-018
+
+---
 
 ## grinning sinner
 
-- - -
+---
 
 #### rare mirth
 
-i hardly laugh      
-why should i      
-i am too weak to cry       
-how could i       
+i hardly laugh  
+why should i  
+i am too weak to cry  
+how could i
 
-i seek gold in mines of coal       
-i heal, then rip apart my soul      
+i seek gold in mines of coal  
+i heal, then rip apart my soul
 
-poetic i would claim, i be        
-when in truth       
-i am a prophet      
-peddling vanity       
+poetic i would claim, i be  
+when in truth  
+i am a prophet  
+peddling vanity
 
-_       
-* Ninte
-02-18-018    
+\_
 
-- - -
+- Ninte
+  02-18-018
+
+---
 
 #### beggar piper
 
-i hold a gift     
-nay, many       
-i could have all      
-yay, any        
+i hold a gift  
+nay, many  
+i could have all  
+yay, any
 
-but i fall for i am weak        
-i beg when i should preach        
-stutter when i could teach        
-the blind, of hell's true peak       
+but i fall for i am weak  
+i beg when i should preach  
+stutter when i could teach  
+the blind, of hell's true peak
 
-_       
-* Ninte
-02-18-018    
+\_
 
-- - -
+- Ninte
+  02-18-018
+
+---
 
 #### the silent path
 
-should have been more       
-i seek joy's true door      
-pain, the heavens pour        
-on my heart's very floor      
+should have been more  
+i seek joy's true door  
+pain, the heavens pour  
+on my heart's very floor
 
-no one understands        
-that is the girdle        
-of my confusion,         
-the girth of my delusion        
+no one understands  
+that is the girdle  
+of my confusion,  
+the girth of my delusion
 
-_       
-* Ninte
-02-18-018    
+\_
 
-- - -
+- Ninte
+  02-18-018
+
+---
 
 #### wakanda
 
-am i a black panther        
-is there anything royal about me        
-all the tanzanite in my soul        
-who can see ...       
+am i a black panther  
+is there anything royal about me  
+all the tanzanite in my soul  
+who can see ...
 
-i fall into the darkness of sin         
-yet feel godly        
-is there a cure for humanity        
-let me drink it,        
-and fall sound asleep ...       
+i fall into the darkness of sin  
+yet feel godly  
+is there a cure for humanity  
+let me drink it,  
+and fall sound asleep ...
 
-_       
-* Ninte    
-02-18-018    
+\_
 
-- - -
+- Ninte  
+  02-18-018
+
+---
 
 ## pointless
 
-do not fight        
-the demons that you see       
-the pain within your soul       
-your sorrows turned to joy      
-the world is just too cold        
+do not fight  
+the demons that you see  
+the pain within your soul  
+your sorrows turned to joy  
+the world is just too cold
 
-do not fight        
-the love you know to doubt        
-whisper and then shout        
-the gods are too asleep       
-to help you out         
+do not fight  
+the love you know to doubt  
+whisper and then shout  
+the gods are too asleep  
+to help you out
 
-do not fight        
-who you know you are        
-you could be a star       
-or a blackhole        
-either way, you are in the sky        
+do not fight  
+who you know you are  
+you could be a star  
+or a blackhole  
+either way, you are in the sky
 
-do not fight        
-what helps you remember       
-you are made of gold        
-who cares if no one cares        
-wipe away your tears        
+do not fight  
+what helps you remember  
+you are made of gold  
+who cares if no one cares  
+wipe away your tears
 
-do not fight        
-the colours on your soul        
-the red that proves you are bloody        
-the black that is your mind       
-the green that is your flag       
+do not fight  
+the colours on your soul  
+the red that proves you are bloody  
+the black that is your mind  
+the green that is your flag
 
-do not fight        
-the pointlessness of life       
-there is no rhythm to reality       
-no one will sing your song        
-till you claim it is your anthem        
+do not fight  
+the pointlessness of life  
+there is no rhythm to reality  
+no one will sing your song  
+till you claim it is your anthem
 
-_       
-* Ninte     
-02-16-018    
+\_
 
-- - -
+- Ninte  
+  02-16-018
+
+---
 
 ## dirty high
 
-almost fell off     
-the last cloud      
-heaven loaned me      
+almost fell off  
+the last cloud  
+heaven loaned me
 
-my sin was bold       
-my sorrow deep        
-i croaked to cough        
-and gasped to weep        
+my sin was bold  
+my sorrow deep  
+i croaked to cough  
+and gasped to weep
 
-**_my weakness_**       
+**_my weakness_**  
 **_is why she left me_**
 
-_       
-* Ninte      
-02-13-018    
+\_
 
-- - -
+- Ninte  
+  02-13-018
+
+---
 
 ## black panther
 
-man be an urban warrior     
-code on the cloud       
-in the internet corridor      
+man be an urban warrior  
+code on the cloud  
+in the internet corridor
 
-github [@Usheninte](http://github.com/Usheninte)        
-cause i am the new Kunta Kinte        
-a negus like **Selassie**       
+github [@Usheninte](http://github.com/Usheninte)  
+cause i am the new Kunta Kinte  
+a negus like **Selassie**
 
-the **_green_** in my heart       
-the **_gold_** around my soul       
-the **_black_** be melanin        
+the **_green_** in my heart  
+the **_gold_** around my soul  
+the **_black_** be melanin
 
-... the hue of blessed sin        
-... 'pon my pagan skin        
-not every apple gets to be a tart       
+... the hue of blessed sin  
+... 'pon my pagan skin  
+not every apple gets to be a tart
 
-_       
-* Ninte    
-02-11-018    
+\_
 
-- - -
+- Ninte  
+  02-11-018
+
+---
 
 ## red
 
-- - -
+---
 
 #### tainted heart
 
-they are the angels       
-and i the demon       
+they are the angels  
+and i the demon
 
-the blighted son of Helen       
-even when good        
+the blighted son of Helen  
+even when good  
 not hard to leave
 
-_       
-* Ninte    
-02-09-018    
+\_
 
-- - -
+- Ninte  
+  02-09-018
+
+---
 
 #### burnt rose
 
-she said goodbye        
-with a wry smile       
+she said goodbye  
+with a wry smile
 
-i was not bad enough        
-to tear her from her        
-spirit guides       
+i was not bad enough  
+to tear her from her  
+spirit guides
 
-_       
-* Ninte    
-02-09-018    
+\_
 
-- - -
+- Ninte  
+  02-09-018
+
+---
 
 #### puff puff pass
 
-away your pain        
-do it today       
-i have        
+away your pain  
+do it today  
+i have
 
-'cause even if        
-you give your all       
-every good is       
-bound to fall       
+'cause even if  
+you give your all  
+every good is  
+bound to fall
 
-_       
-* Ninte     
-02-09-018    
+\_
 
-- - -
+- Ninte  
+  02-09-018
+
+---
 
 ## moth light
 
-pray tell me **stories**        
-pray tell me **_tales_**        
-beauties of ages        
+pray tell me **stories**  
+pray tell me **_tales_**  
+beauties of ages
 
-**glorious and gone**       
+**glorious and gone**
 
-curse all my **worries**        
-curse all my **_wails_**        
-pain, though once pent up       
+curse all my **worries**  
+curse all my **_wails_**  
+pain, though once pent up
 
-**glorious and gone**       
+**glorious and gone**
 
-_       
-* Ninte     
-02-08-018    
+\_
 
-- - -
+- Ninte  
+  02-08-018
+
+---
 
 ## SILLY THOUGHTS
 
-Sometimes I feel invisible or like      
-I exist only in someone's subconscious.       
+Sometimes I feel invisible or like  
+I exist only in someone's subconscious.
 
-Like, what if I'm not real        
-I mean, what if I'm just a part         
-of someone's reality.       
-Or what if this is just         
-someone's nightmare, Because        
-I'm definitely not living a dream.        
+Like, what if I'm not real  
+I mean, what if I'm just a part  
+of someone's reality.  
+Or what if this is just  
+someone's nightmare, Because  
+I'm definitely not living a dream.
 
-I mean, I know for sure         
-there could be infinite alternate realities        
-to every reality.       
+I mean, I know for sure  
+there could be infinite alternate realities  
+to every reality.
 
-My reality isn't convincing enough.       
+My reality isn't convincing enough.
 
-_       
-* Ninte   
-02-07-018    
+\_
 
-- - -
+- Ninte  
+  02-07-018
+
+---
 
 ## goth king
 
-- - -
+---
 
 #### superficious
 
-do you think      
-my black nails are      
-simply superficious     
+do you think  
+my black nails are  
+simply superficious
 
-my dark soul        
-is simply maleficient       
-**...** i am something      
-more than, just magnificent     
+my dark soul  
+is simply maleficient  
+**...** i am something  
+more than, just magnificent
 
-_even my girl knows i am far from normal_       
+_even my girl knows i am far from normal_
 
-_       
-* Ninte  
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 #### mad lullabies
 
-i **do not** sing often     
-i have **ever** fewer true friends     
-than the digits on any human hand     
-i understand but do not **fear the**      
-**darkness**, you claim maddens you ...     
+i **do not** sing often  
+i have **ever** fewer true friends  
+than the digits on any human hand  
+i understand but do not **fear the**  
+**darkness**, you claim maddens you ...
 
-_       
-* Ninte  
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 #### clipped wings
 
-i am far from icarus      
-i am far from heaven sent     
-down to darkness, i seem bent       
+i am far from icarus  
+i am far from heaven sent  
+down to darkness, i seem bent
 
-on falling headfirst        
-i must paint this lest i repent       
-carve a rose in ink on my chest       
+on falling headfirst  
+i must paint this lest i repent  
+carve a rose in ink on my chest
 
-maybe then the world will know        
-no every savior need be a saint       
+maybe then the world will know  
+no every savior need be a saint
 
-_       
-* Ninte    
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 #### never repeat
 
-speak twice no more     
-third time, is the charm     
-i just fell once more     
-felt the thirst for the nicotine      
-**_damn_** : few things hurt so       
+speak twice no more  
+third time, is the charm  
+i just fell once more  
+felt the thirst for the nicotine  
+**_damn_** : few things hurt so
 
-_       
-* Ninte    
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 #### more than man
 
-i fall not to repeat my sin     
-i bathe in Hades' river     
-to rinse my mind clean      
+i fall not to repeat my sin  
+i bathe in Hades' river  
+to rinse my mind clean
 
-the calmness of Olympus     
-seems to me to be but     
-ordered chaos     
+the calmness of Olympus  
+seems to me to be but  
+ordered chaos
 
-how can gods sit upon     
-a mound of stone      
-and call it home      
+how can gods sit upon  
+a mound of stone  
+and call it home
 
-_       
-* Ninte    
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 #### rare evening dove
 
-few are truly honest      
-fewer, yet still calm     
+few are truly honest  
+fewer, yet still calm
 
-most are aged yet young within      
-my dove is young, yet aged without      
+most are aged yet young within  
+my dove is young, yet aged without
 
-smart as the anvil near Vulcan's flame      
-she wears her thoughts with no drop of shame      
+smart as the anvil near Vulcan's flame  
+she wears her thoughts with no drop of shame
 
-if i am the heat of an ancient desert     
-she is the smoothest singing palm       
+if i am the heat of an ancient desert  
+she is the smoothest singing palm
 
-_       
-* Ninte   
-02-05-018    
+\_
 
-- - -
+- Ninte  
+  02-05-018
+
+---
 
 ## nicotine sanity
 
-a cigarette a     
-day, keeps the doctor away      
-... or so i dare say        
+a cigarette a  
+day, keeps the doctor away  
+... or so i dare say
 
-_       
-* Ninte  
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 ## tell them
 
-_words of_ warmth     
-if it will make them      
-pause and believe     
+_words of_ warmth  
+if it will make them  
+pause and believe
 
-_words of_ war ...      
-if it will make them      
-rise and acheive      
+_words of_ war ...  
+if it will make them  
+rise and acheive
 
-if it will make them      
-act and perceive      
-**_words of_** warning      
+if it will make them  
+act and perceive  
+**_words of_** warning
 
-_       
-* Ninte
-01-28-018    
+\_
 
-- - -
+- Ninte
+  01-28-018
+
+---
 
 ## choir noir
 
-- - -
+---
 
 #### the anthem
 
-it hums in silence      
-should i ignore it      
+it hums in silence  
+should i ignore it
 
-or let it sink it     
-it mocks me, and      
-at my pain, laughs softly     
+or let it sink it  
+it mocks me, and  
+at my pain, laughs softly
 
-_       
-* Ninte   
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 #### hungry revolutionary
 
-he wanders on the field      
-for the bread of peace      
+he wanders on the field  
+for the bread of peace
 
-walking into      
-the **_enemy's den_**     
+walking into  
+the **_enemy's den_**
 
-unafraid of hell      
-for from a heaven, he fell     
+unafraid of hell  
+for from a heaven, he fell
 
-_       
-* Ninte  
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 #### les jacques
 
-like in a tale      
-of two cities     
-the spirit      
-worships two deities    
+like in a tale  
+of two cities  
+the spirit  
+worships two deities
 
-1. one of **patience**      
-2. one of **angst**     
+1. one of **patience**
+2. one of **angst**
 
-against and for     
-the soul they fight     
+against and for  
+the soul they fight
 
-_       
-* Ninte   
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 #### dumb lead
 
-the music of reality      
-rarely parts my lips      
+the music of reality  
+rarely parts my lips
 
-i wander 'cross ancient galaxies      
-collecting teardrops of skylight      
-will it all amount to _aught_     
+i wander 'cross ancient galaxies  
+collecting teardrops of skylight  
+will it all amount to _aught_
 
-**i am the dumb lead**      
-**in an opera, take heed**      
+**i am the dumb lead**  
+**in an opera, take heed**
 
-_       
-* Ninte  
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 #### caramel blunders
 
-and melanin wonders     
-envelope my     
-youthful soul     
+and melanin wonders  
+envelope my  
+youthful soul
 
-in parts, in whole      
-i smile and **thole**     
+in parts, in whole  
+i smile and **thole**
 
 _excuse_ the grammar
 _my heart_ does stammer
 
-_       
-* Ninte     
-01-28-018    
+\_
 
-- - -
+- Ninte  
+  01-28-018
+
+---
 
 ## remembering normal
 
-the absence of thought      
-is not a thing in itself      
+the absence of thought  
+is not a thing in itself
 
-blink mentally      
-remember normality      
-it is a gift for the mundanity      
-you offered to bleed gold     
+blink mentally  
+remember normality  
+it is a gift for the mundanity  
+you offered to bleed gold
 
-_       
-* Ninte      
-01-27-018    
+\_
 
-- - -
+- Ninte  
+  01-27-018
+
+---
 
 ## no sleep
 
-- - -
+---
 
 #### i am numb
 
-i am cold now       
-from dipping my soul        	
-in lofty icy depths         
+i am cold now  
+from dipping my soul
+in lofty icy depths
 
-i catch swift breaths       
-of redemption       
-as i slip       
-ever deeper into        
-holy perdition      
+i catch swift breaths  
+of redemption  
+as i slip  
+ever deeper into  
+holy perdition
 
-_       
-* Ninte      
-01-27-018    
+\_
 
-- - -
+- Ninte  
+  01-27-018
+
+---
 
 #### who i am in truth
 
-is no more than a shade         
-than a blunt yet sharpened blade        
+is no more than a shade  
+than a blunt yet sharpened blade
 
-rare as the ancient jade        
-silver when it sold the son of god          
+rare as the ancient jade  
+silver when it sold the son of god
 
-... _i but banter_      
-i am but a semi-righteous being       
+... _i but banter_  
+i am but a semi-righteous being
 
-_       
-* Ninte     
-01-27-018    
+\_
 
-- - -
+- Ninte  
+  01-27-018
+
+---
 
 #### whatevz
 
-you cannot control me       
-you would       
-have to understand      
-first, which you do not     
+you cannot control me  
+you would  
+have to understand  
+first, which you do not
 
-**lol**         
-i am not your boy       
+**lol**  
+i am not your boy
 
-_       
-* Ninte
-01-27-018    
+\_
 
-- - -
+- Ninte
+  01-27-018
+
+---
 
 <a href="http://bit.ly/adhd-poetrique">
   <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,q_auto:best,w_500/v1512928695/a-d-h-d_poetrique.png" 
@@ -3801,1379 +4270,1379 @@ _
       style="width: 200px; height: auto;">
 </a>
 
-- - -
+---
 
 ## a boy named ransom
 
-- - -
+---
 
 #### denied
 
-a chance at love by the holy     
-told that i was nothing     
-by the ugly and the lowly     
-and i have believed them all     
+a chance at love by the holy  
+told that i was nothing  
+by the ugly and the lowly  
+and i have believed them all
 
-i ought now to bolden up      
-and firmly stand tall     
-i shall explain my soul no more     
-i shut now the last door     
+i ought now to bolden up  
+and firmly stand tall  
+i shall explain my soul no more  
+i shut now the last door
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### gifted
 
-believe you will never     
-come across a star like me     
-even i do not know     
-my full glow     
+believe you will never  
+come across a star like me  
+even i do not know  
+my full glow
 
-i need to press it harder     
-into the furnace of life     
-hit it on the anvil     
-of madness and strife     
+i need to press it harder  
+into the furnace of life  
+hit it on the anvil  
+of madness and strife
 
-i am gifted     
-twisted and blistered     
-a purple diamond     
-i will earn a galaxy     
+i am gifted  
+twisted and blistered  
+a purple diamond  
+i will earn a galaxy
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### forgotten
 
-God forgot to make a mate for me     
-he or she decided      
-i do not deserve companionship     
+God forgot to make a mate for me  
+he or she decided  
+i do not deserve companionship
 
-no love sticks, my heart is bark     
-yet i have been burdened     
-with a soul of sap      
+no love sticks, my heart is bark  
+yet i have been burdened  
+with a soul of sap
 
-of honey golden running impure      
-able to see love but never sure     
+of honey golden running impure  
+able to see love but never sure
 
-if i was meant to be happy     
-then this numbness in me     
-ought not to be a reality    
+if i was meant to be happy  
+then this numbness in me  
+ought not to be a reality
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
-## f*ck it all
+## f\*ck it all
 
-let me down     
-let me fall     
-taste the dust     
-i will never call     
-out for help     
-not anymore     
+let me down  
+let me fall  
+taste the dust  
+i will never call  
+out for help  
+not anymore
 
-i have waited too long     
-at love's door     
+i have waited too long  
+at love's door
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## ugly duckling
 
-i am kin to none     
-in truth, in fact     
+i am kin to none  
+in truth, in fact
 
-my species have laughed     
-when i tried to look back     
-leave me in my misery      
+my species have laughed  
+when i tried to look back  
+leave me in my misery
 
-i am not dark     
-_just the opposite of white_     
+i am not dark  
+_just the opposite of white_
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## wolf abuse
 
-puppy dog love     
-turns to wolf abuse     
+puppy dog love  
+turns to wolf abuse
 
-come not to me     
-when he does refuse     
+come not to me  
+when he does refuse
 
-**nothing is ever worth, feeling anything**     
+**nothing is ever worth, feeling anything**
 
-perhaps i was too cocky     
-and the lord thus decided     
-to shock me     
+perhaps i was too cocky  
+and the lord thus decided  
+to shock me
 
-**nothing is ever worth, feeling anything**     
+**nothing is ever worth, feeling anything**
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## nostalgia
 
-i miss the former days     
-when life passed in a daze     
+i miss the former days  
+when life passed in a daze
 
-and i knew never time     
-nor place     
+and i knew never time  
+nor place
 
-just after i fell     
-like a dark angel     
-falselly accused     
+just after i fell  
+like a dark angel  
+falselly accused
 
-from grace     
+from grace
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## expletive
 
-bullsh*t they try     
-to feed me on the steady     
+bullsh\*t they try  
+to feed me on the steady
 
-for the new god     
-no one can be ready     
+for the new god  
+no one can be ready
 
-my manner is bloody     
-ruddy and cold     
+my manner is bloody  
+ruddy and cold
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## emotions
 
-- - -
+---
 
 #### my reality
 
-it takes an insect     
-in my eye to make me _weep_      
+it takes an insect  
+in my eye to make me _weep_
 
 and a prescribed pill
 to make me **sleep**
 
-i gamble with machinations     
-foster calculations     
+i gamble with machinations  
+foster calculations  
 just so, i do not feel like **_sheep_**
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### queen
 
-i knew her for half a second    
-that was enough     
-she is the last    
+i knew her for half a second  
+that was enough  
+she is the last  
 in a recent rapid succession
 
-to ignore my love     
+to ignore my love  
 and my soul rebuff
 
-she had a     
-rapid fire spirit     
-bright as the sun, was she ...     
-she was my new religion     
-i stood at her pulpit     
+she had a  
+rapid fire spirit  
+bright as the sun, was she ...  
+she was my new religion  
+i stood at her pulpit
 
-**_now i know_**     
-**_i can never serve_**     
-**_the god king of love_**     
+**_now i know_**  
+**_i can never serve_**  
+**_the god king of love_**
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### nerd for life
 
-i have used up     
-two blue ink pens     
-during these exams     
+i have used up  
+two blue ink pens  
+during these exams
 
-of life: reality tutors me     
-i obey my teacher alone     
-i cannot stop      
+of life: reality tutors me  
+i obey my teacher alone  
+i cannot stop
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### nothing changes
 
-i made my lips sweet     
-for a _convo_ that never held     
+i made my lips sweet  
+for a _convo_ that never held
 
-for a spluttering sparrow     
-of a bird     
-to become in a triangle     
-an unwilling third     
+for a spluttering sparrow  
+of a bird  
+to become in a triangle  
+an unwilling third
 
-i still cannot share my love     
+i still cannot share my love
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### good night
 
-nothing can improve     
-for a star-crossed poet     
+nothing can improve  
+for a star-crossed poet
 
-i am fuzzy inside     
-but never show it     
-my pain must turn to profit     
+i am fuzzy inside  
+but never show it  
+my pain must turn to profit
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## premium
 
-- - -
+---
 
 #### fired
 
-i Need No muse    
-i have dropped every ruse     
-i am    
-... ... plaiN aNd cold     
-i am     
-... ... mad aNd bold     
+i Need No muse  
+i have dropped every ruse  
+i am  
+... ... plaiN aNd cold  
+i am  
+... ... mad aNd bold
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### the blessed
 
-come across love    
-the holy    
-draw Near to god     
+come across love  
+the holy  
+draw Near to god
 
-Nothing is to me       
-a source of joy    
-permaNeNt     
-or vaiN    
+Nothing is to me  
+a source of joy  
+permaNeNt  
+or vaiN
 
-from Needless mirth    
-arouNd me, refraiN     
+from Needless mirth  
+arouNd me, refraiN
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### capitalized N
 
-for Ninte    
-for kNowledge    
-and for     
-my saNity    
+for Ninte  
+for kNowledge  
+and for  
+my saNity
 
-i am an aviaN    
-visioNary    
-flyiNg across a cloud    
-Noir aNd full of storms    
+i am an aviaN  
+visioNary  
+flyiNg across a cloud  
+Noir aNd full of storms
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## spaceman
 
-i feel nothing   
-i am a star    
-out of place   
+i feel nothing  
+i am a star  
+out of place
 
-not joy, not anger   
-truly not even **_pain_**   
+not joy, not anger  
+truly not even **_pain_**
 
-* Ninte   
+- Ninte
 
-- - -
+---
 
 ## fallen
 
 drops of gold  
-out of my heart   
-out of my soul   
+out of my heart  
+out of my soul
 
-i hear the laughter   
-of the angels that do weep   
-i do not blink   
-i can not sleep   
+i hear the laughter  
+of the angels that do weep  
+i do not blink  
+i can not sleep
 
-* Ninte   
+- Ninte
 
-- - -
+---
 
 ## 2 shots
 
-down from on high   
-shot like a fool   
-into the ground   
+down from on high  
+shot like a fool  
+into the ground
 
-went back for   
-more pain   
-hurt again   
+went back for  
+more pain  
+hurt again
 
-take this not   
-for weakkness   
-i remain a titan   
+take this not  
+for weakkness  
+i remain a titan
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 <!-- ![collage](http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:ukulele,q_auto:best,w_500/v1512801064/htmlpoems/12-HP_poetrique.jpg) -->
 
-- - -
+---
 
 ## bae book
 
-- - -
+---
 
 #### snap boy
 
-he took my picture   
-i am after    
-his girl   
+he took my picture  
+i am after  
+his girl
 
-i will get her   
-she spins on her toes   
+i will get her  
+she spins on her toes
 
-him a snap boy   
-me a bad man   
-my mind is no safe toy   
+him a snap boy  
+me a bad man  
+my mind is no safe toy
 
-* Ninte   
+- Ninte
 
-- - -
+---
 
 #### ants in a coda bottle
 
-lick up   
-all the joy   
-you sober fighter   
+lick up  
+all the joy  
+you sober fighter
 
-do not hesitate   
-take what is left   
+do not hesitate  
+take what is left
 
-**do your best**   
+**do your best**
 
-pass the test   
-of sweetness   
-and sobriety   
-get high on your soul   
+pass the test  
+of sweetness  
+and sobriety  
+get high on your soul
 
-**do your best**   
+**do your best**
 
-* Ninte   
+- Ninte
 
-- - -
+---
 
 #### ratatata
 
-madness   
-is a rhythm   
-sadness: is a game   
+madness  
+is a rhythm  
+sadness: is a game
 
-my soul   
-is free and complex   
+my soul  
+is free and complex
 
-_yet still intact_   
+_yet still intact_
 
-**_ratatata_**   
+**_ratatata_**
 
-i speak   
-in the language   
-of pain sweet   
+i speak  
+in the language  
+of pain sweet
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### gutter
 
-effortlessly, i cut   
-through souls   
-like they are butter   
+effortlessly, i cut  
+through souls  
+like they are butter
 
-**_yet still, though_**   
-**_my heart is a gutter_**   
+**_yet still, though_**  
+**_my heart is a gutter_**
 
-i breathe in gasps   
-i talk in riddles   
-so my muse believes me   
+i breathe in gasps  
+i talk in riddles  
+so my muse believes me
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### alpha
 
-a, b, c   
-1, 2, 3   
-i am a king   
-and a knave indeed   
+a, b, c  
+1, 2, 3  
+i am a king  
+and a knave indeed
 
-* Ninte
+- Ninte
 
-- - -  
+---
 
-#### relunctant      
+#### relunctant
 
-an adviser she   
-claims to be, but she knows   
-she is more with me   
+an adviser she  
+claims to be, but she knows  
+she is more with me
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 #### aim
 
-she wore a dress   
-colder than reality   
+she wore a dress  
+colder than reality
 
-closer to sanity   
-is she, than i   
+closer to sanity  
+is she, than i
 
-for her i aim to fly   
-but i have no wings   
-thus i must fall   
+for her i aim to fly  
+but i have no wings  
+thus i must fall
 
-* Ninte   
+- Ninte
 
-- - -
+---
 
 ## colosseum
 
-exposed to the sun   
-naked like a maiden   
-or a mind unborn   
+exposed to the sun  
+naked like a maiden  
+or a mind unborn
 
-you were a palace of madness   
-you are nothing but a ruin   
-but a dream now   
+you were a palace of madness  
+you are nothing but a ruin  
+but a dream now
 
-was it sinful   
-that i did not come so often   
-to worship, before you fell?   
+was it sinful  
+that i did not come so often  
+to worship, before you fell?
 
-* Ninte  
+- Ninte
 
-- - -
+---
 
 ## the show
 
-we are on the waves    
-surfing, but never drowning    
-screaming but never shouting    
-speaking from our souls   
+we are on the waves  
+surfing, but never drowning  
+screaming but never shouting  
+speaking from our souls
 
-we keep it simple    
-open and unspoken    
-moving agendas,    
-shinying shields, and blades   
-mental precision   
+we keep it simple  
+open and unspoken  
+moving agendas,  
+shinying shields, and blades  
+mental precision
 
-**_the show is more than the mic spit_**   
-**_we pilot the art - this is the cockpit_**   
+**_the show is more than the mic spit_**  
+**_we pilot the art - this is the cockpit_**
 
-on the steady   
-clearly ready   
-nothing bloddy   
-dirty logic   
+on the steady  
+clearly ready  
+nothing bloddy  
+dirty logic
 
-we are the new scientists   
-ancient like kings   
-postmodern relics   
+we are the new scientists  
+ancient like kings  
+postmodern relics
 
-we are the new preachers   
-teaching the soft religion   
-moving like ghosts   
-walking like wolves   
-we are the new magicians   
+we are the new preachers  
+teaching the soft religion  
+moving like ghosts  
+walking like wolves  
+we are the new magicians
 
-**_the show is more than the mic spit_**   
-**_we pilot the art - this is the cockpit_**   
+**_the show is more than the mic spit_**  
+**_we pilot the art - this is the cockpit_**
 
-we know all our brothers   
-we rock all the borders   
-we are up in the air   
-like bluebirds    
+we know all our brothers  
+we rock all the borders  
+we are up in the air  
+like bluebirds
 
-of all the cool faces   
-we make up two-thirds   
-we are aiming for greatness    
-we do what we want to     
-there is nothing holding us back    
+of all the cool faces  
+we make up two-thirds  
+we are aiming for greatness  
+we do what we want to  
+there is nothing holding us back
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## explain
 
-why can i never    
-relay as in ink   
-my words, in person - sharper   
+why can i never  
+relay as in ink  
+my words, in person - sharper
 
-the faults i feel i have   
-i have told them to you   
-you should not remember   
+the faults i feel i have  
+i have told them to you  
+you should not remember
 
-never bother   
-the humble and shy   
-are not oft recalled   
+never bother  
+the humble and shy  
+are not oft recalled
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## who i need to be
 
-- - -
+---
 
 #### a man
 
-first and foremost   
-thus, i need a companion   
+first and foremost  
+thus, i need a companion
 
-no one can truly breathe alone   
+no one can truly breathe alone
 
-teach me to roam    
-across the brightest part   
-of Hades' sky    
+teach me to roam  
+across the brightest part  
+of Hades' sky
 
-so i can be the one for you   
+so i can be the one for you
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### love galore
 
-i can be loyal     
-i need someone   
-to be so for   
+i can be loyal  
+i need someone  
+to be so for
 
-leave me when you feel    
-nothing again   
-do not just drift   
-like golden dust, again   
-let me know - **then**   
+leave me when you feel  
+nothing again  
+do not just drift  
+like golden dust, again  
+let me know - **then**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### chocolates
 
-keep you joyful   
-but i   
-have no sweet tooth   
-even if, the first soul   
-i ever brushed was a gem   
+keep you joyful  
+but i  
+have no sweet tooth  
+even if, the first soul  
+i ever brushed was a gem
 
-melt upon me   
-sigh atop me   
-keep it simple   
-blunt and free   
+melt upon me  
+sigh atop me  
+keep it simple  
+blunt and free
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### deaf man words
 
-you might not like   
-my ways, my sayings   
-my thoughts and ideas   
+you might not like  
+my ways, my sayings  
+my thoughts and ideas
 
-but never doubt my   
-arithmetic rhythm   
-always and forever   
+but never doubt my  
+arithmetic rhythm  
+always and forever
 
-i will prove a deaf man   
-spitting on the sun   
-cold words   
+i will prove a deaf man  
+spitting on the sun  
+cold words
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1512198576/htmlpoems/09-HP_poetrique.png" 
     alt="love-secrets" 
     title="love-secrets" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## last page
 
-no more stories       
-to tell     
+no more stories  
+to tell
 
-it is unentertaining       
-how often   
-i have fallen    
+it is unentertaining  
+how often  
+i have fallen
 
-**_one last hurrah_**     
-**_for the trip in the sky_**    
+**_one last hurrah_**  
+**_for the trip in the sky_**
 
-the bravest ones    
-never win    
+the bravest ones  
+never win
 
-and surely too    
-those farthest from the truth    
-never lie    
+and surely too  
+those farthest from the truth  
+never lie
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## soul food
 
-age your ideas       
-finer than wine       
+age your ideas  
+finer than wine
 
-upon your soul     
-feast and dine     
-you are all you require        
+upon your soul  
+feast and dine  
+you are all you require
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## cobain
 
-when the   
-time comes   
+when the  
+time comes
 
-i will   
+i will  
 feed my  
-mind   
+mind
 
-its proper   
-diet   
+its proper  
+diet  
 a bullet
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1512196010/htmlpoems/08-HP_poetrique.jpg" 
     alt="gandalf" 
     title="gandalf" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## what i have to say
 
-- - -
+---
 
 #### for now
 
-the pain is a game   
-a two minute race   
-without face   
-without pace   
+the pain is a game  
+a two minute race  
+without face  
+without pace
 
-its a mental mirage   
-that burns from within   
-it soothes too, i must confess   
+its a mental mirage  
+that burns from within  
+it soothes too, i must confess
 
-herein lies the truth   
-of my pathetic sin   
+herein lies the truth  
+of my pathetic sin
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### barsman
 
-i burn bars   
-not for ectasy   
+i burn bars  
+not for ectasy
 
-but to reclaim    
-the key to reality    
-my once sober clarity   
-my weak hold on vanity   
+but to reclaim  
+the key to reality  
+my once sober clarity  
+my weak hold on vanity
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### better already
 
-do i swim or wade through life   
-seek out bitter, endless strife   
+do i swim or wade through life  
+seek out bitter, endless strife
 
-neither in truth   
-i drown each day     
+neither in truth  
+i drown each day
 
-**_in the pool_**   
-**_of my mind's tear_**  
+**_in the pool_**  
+**_of my mind's tear_**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## make-believe
 
-thoughts imaginary   
-i pull out   
-of my magic black hat   
-with a rabid white rabbit   
+thoughts imaginary  
+i pull out  
+of my magic black hat  
+with a rabid white rabbit
 
-there is no   
-saving me   
-from make-believe   
+there is no  
+saving me  
+from make-believe
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## assay
 
-often, and with care   
-without reflection   
-or a drop of fear   
+often, and with care  
+without reflection  
+or a drop of fear
 
-never ignorant   
-getting goals accomplished   
-evaluate all   
-regardless of where   
+never ignorant  
+getting goals accomplished  
+evaluate all  
+regardless of where
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1512092145/htmlpoems/07-HP_poetrique.jpg" 
     alt="loyalty" 
     title="loyalty" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## a-levels
 
-i dropped out to focus   
-and study more   
-and mentally soar   
+i dropped out to focus  
+and study more  
+and mentally soar
 
-you knock on the door   
-for the encore   
-i fly, for the high   
+you knock on the door  
+for the encore  
+i fly, for the high
 
-i never sleep   
-for in the heavens   
-you cannot snore   
+i never sleep  
+for in the heavens  
+you cannot snore
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## dar es salaam
 
-raised in the city   
-of peace, and chapati   
+raised in the city  
+of peace, and chapati
 
 went to the ocean  
-when i wanted   
-worked on walls      
-white - with graffiti      
+when i wanted  
+worked on walls  
+white - with graffiti
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## create, debate
 
-art is argument    
-art is peace   
+art is argument  
+art is peace
 
-release, now   
-your next work   
-like it is      
-you last bow     
+release, now  
+your next work  
+like it is  
+you last bow
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## in truth
 
-i am nothing    
-just a shell    
-just for show   
+i am nothing  
+just a shell  
+just for show
 
-dark warm snow   
-am i. Nothing else   
-nothing mo'   
+dark warm snow  
+am i. Nothing else  
+nothing mo'
 
 ...
 
-mo' money   
-means   
-mo' monkey biz   
+mo' money  
+means  
+mo' monkey biz
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## other poets
 
-are better than me   
-simpler, you see   
-free as can be   
+are better than me  
+simpler, you see  
+free as can be
 
-with regard to myself,    
-i know   
+with regard to myself,  
+i know
 
-- this is catharsis   
-- this has no rhyme   
+- this is catharsis
+- this has no rhyme
 
 my depth is shallow at best
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## to my future love
 
-- - -
+---
 
 #### trust
 
-is a seed   
-that does   
-not just grow   
+is a seed  
+that does  
+not just grow
 
-first you sow   
-then you mend   
+first you sow  
+then you mend
 
-**_on and on_**   
-**_without end_**   
+**_on and on_**  
+**_without end_**
 
-i will give   
-you will take   
-just do not   
+i will give  
+you will take  
+just do not
 
-pretend   
+pretend
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### desire
 
-come at me always   
-with the heat   
-of pure fire   
+come at me always  
+with the heat  
+of pure fire
 
-never relent   
-in loving   
-and i too   
-will never   
-in adoring   
+never relent  
+in loving  
+and i too  
+will never  
+in adoring
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### want me
 
-its not complex   
-truly simple   
+its not complex  
+truly simple  
 you and me
 
-want and need   
-_not me indeed_   
+want and need  
+_not me indeed_
 
-but the passion   
-you and i   
-know i breed   
+but the passion  
+you and i  
+know i breed
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### reflect
 
-on the way   
-you once did walk   
-before i passed   
-you my cross   
+on the way  
+you once did walk  
+before i passed  
+you my cross
 
-blanched as chalk   
-is my soul   
-with a center   
+blanched as chalk  
+is my soul  
+with a center  
 full of **melanin**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## impatient
 
-i tire   
-of waiting   
+i tire  
+of waiting
 
-of skating   
+of skating  
 on the fence
 
-of relating   
-with pagans   
+of relating  
+with pagans
 
-**_full of pretence_**   
+**_full of pretence_**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## bitter blunt
 
-you sting   
-and whisper   
-a tale of death   
+you sting  
+and whisper  
+a tale of death
 
-but im not coughing   
-but im not choking   
-i accept it   
+but im not coughing  
+but im not choking  
+i accept it
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1512007384/htmlpoems/05-HP_poetrique.png" 
     alt="hey-namrata" 
     title="hey-namrata" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## just because
 
-lets do nothing   
-just because   
+lets do nothing  
+just because
 
-life is a game   
-you catch   
-and toss   
+life is a game  
+you catch  
+and toss
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## mean
 
-do not like me   
-if you wish   
-that does not matter   
+do not like me  
+if you wish  
+that does not matter
 
-just do not speak   
-behind my back   
-i hear your chatter   
+just do not speak  
+behind my back  
+i hear your chatter
 
-i taste sweet   
-ask your soul   
-i am a honeyed black adder   
+i taste sweet  
+ask your soul  
+i am a honeyed black adder
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## darling
 
 come to me
 
-**_in a dream_**   
-**_smile and dance_**   
+**_in a dream_**  
+**_smile and dance_**
 
-leave me be   
-if you can   
+leave me be  
+if you can
 
-**_in a dream_**   
-**_smile and dance_**   
+**_in a dream_**  
+**_smile and dance_**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## midnight
 
-god bless   
-my magic yellow pill   
+god bless  
+my magic yellow pill
 
-for drowning out   
-the pain surreal   
+for drowning out  
+the pain surreal
 
-thank you lov*   
-for being real   
+thank you lov\*  
+for being real
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1511933811/htmlpoems/04-HP_poetrique.jpg" 
     alt="skin-&-bone" 
     title="skin-&-bone" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## question
 
-a stranger asked   
-"are you okay?"   
+a stranger asked  
+"are you okay?"
 
-no friend can stand   
-with me by day   
+no friend can stand  
+with me by day
 
-ask not why i repress my pain   
-leave me this way   
+ask not why i repress my pain  
+leave me this way
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## antihero
 
-- - -
+---
 
 #### batman
 
-i am alone      
-that ought not    
-to be stated    
+i am alone  
+that ought not  
+to be stated
 
-yet i save    
-those i can    
-from falling    
+yet i save  
+those i can  
+from falling
 
-i am no saint    
-yet still,    
-half-martyred    
+i am no saint  
+yet still,  
+half-martyred
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### the punisher
 
-guerrilla warrior   
-sweeper of deceit   
+guerrilla warrior  
+sweeper of deceit
 
-nothing poetic   
-breathing crooked   
-pure artistry   
+nothing poetic  
+breathing crooked  
+pure artistry
 
-anger is a weapon   
-i know too well   
+anger is a weapon  
+i know too well
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### john constantine
 
-chain smoker   
-my pain is hidden     
-in a box   
+chain smoker  
+my pain is hidden  
+in a box
 
-demon caller   
-i know my faults   
+demon caller  
+i know my faults
 
-not worthy of a lover   
-i lie to all   
-leave me be   
+not worthy of a lover  
+i lie to all  
+leave me be
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### catwoman
 
-independent    
-broken    
-independent    
+independent  
+broken  
+independent
 
-all in turns    
-no pain burns    
+all in turns  
+no pain burns
 
-walk on edges    
-fly off rooftops    
-all to run away    
+walk on edges  
+fly off rooftops  
+all to run away  
 from love
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## bye
 
-true poetry   
+true poetry  
 they do not  
-feel your truth  
+feel your truth
 
 true love  
 they do not  
-want your warmth  
+want your warmth
 
 true peace  
 they do not  
-seek your girth  
+seek your girth
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1511827448/htmlpoems/03-HP_poetrique.jpg" 
     alt="singular" 
     title="singular" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## del ray
 
-_lana knows my soul_  
+_lana knows my soul_
 
 i guess  
 i think  
-i cannot know  
+i cannot know
 
-_lana knows my soul_  
+_lana knows my soul_
 
 she breathes  
 pure gold  
-yet wants nothing  
+yet wants nothing
 
-_lana knows my soul_  
+_lana knows my soul_
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## simple
 
 could love not be  
-direct as smoke  
+direct as smoke
 
 straight as a tree  
 other than  
-full of glee  
+full of glee
 
 why do we  
 claim we know  
-what we do not  
+what we do not
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## guns and roses
 
-life    
-_*_     
+life  
+_\*_  
 love  
-_*_   
-abstinence     
-_*_    
-absence    
-_*_  
-emptiness    
-_*_  
+_\*_  
+abstinence  
+_\*_  
+absence  
+_\*_  
+emptiness  
+_\*_  
 empathy
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1511827495/htmlpoems/02-HP_poetrique.jpg" 
     alt="b-l-u-e" 
     title="b-l-u-e" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## lack of
 
-the absence    
-of sleep    
+the absence  
+of sleep  
 means not  
-insomnia  
+insomnia
 
-the lack   
+the lack  
 of love  
-means not   
-loneliness  
+means not  
+loneliness
 
 nothing can  
 fill a thing  
-that is nothing  
+that is nothing
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## cold poetry
 
-look not    
-into my eyes    
-_i cannot look back_     
+look not  
+into my eyes  
+_i cannot look back_
 
-look not    
-into my soul    
-_its kind of wack_  
+look not  
+into my soul  
+_its kind of wack_
 
 my poems  
 hardly rhyme nowadays  
-_now thats a fact_  
+_now thats a fact_
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 ## do not
 
-- - -
+---
 
 do not look  
 do not see  
 do not feel  
-do not speak  
+do not speak
 
 _understand_  
-_there is no point_  
+_there is no point_
 
 do not love  
 do not hug  
 do not smile  
-do not reach  
+do not reach
 
 _understand_  
-_there is no point_  
+_there is no point_
 
 do not wonder  
 do not ask  
 do not bother  
-do not sigh  
+do not sigh
 
 **...**
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 <img src="http://res.cloudinary.com/poetrique/image/upload/c_scale,e_art:linen,q_auto:best,w_500/v1511761478/htmlpoems/01-HP_poetrique.jpg" 
     alt="i am nue nue" 
     title="i am nue nue" 
     style="width: 200px; height: auto;"/>
 
-- - -
+---
 
 ## CONFESSIONS
 
-- - -
+---
 
 #### no one can
 
 see this  
 so  
-i will no try  
+i will no try
 
 i cannot cry,  
 will not be  
-heard when i die  
+heard when i die
 
 care for  
-a half-broken soul  
+a half-broken soul
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### understand
 
 i cannot be  
 happy in the  
-true sense  
+true sense
 
 there is a  
 rhythm to joy  
 i might  
-never learn  
+never learn
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### the way
 
 that i feel  
 is not so deep  
-not so complex  
+not so complex
 
 truly  
 not so slick  
 disposable  
-as a tick  
+as a tick
 
 yet i strive  
 for no reason  
 for a season  
-of spring  
+of spring
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### my mind beats
 
 illogical  
-balanced and grotesque  
+balanced and grotesque
 
 like a jungle  
 voltaire  
-i think _candide_  
+i think _candide_
 
 instead  
 of my heart  
-i need it to feel  
+i need it to feel
 
-* Ninte
+- Ninte
 
-- - -
+---
 
 #### ... i need a muse
 
 offers were up  
-down to the ground  
+down to the ground
 
 no one can hear  
-my soul's very sound  
+my soul's very sound
 
 i tire of speaking  
-painting, and explaining  
+painting, and explaining
 
 the pits of my being  
-and broken lofty peaks  
+and broken lofty peaks
 
-* Ninte
+- Ninte
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129370470-4"></script>
