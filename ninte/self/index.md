@@ -1,3 +1,4 @@
+# _Self_
 
 ---
 
@@ -53,7 +54,7 @@ I know some things to be true
 the rising of the sun, after night  
 and the face of the ocean, blue
 
-- - -
+---
 
 ## A Poem At Dusk
 
@@ -105,3 +106,5 @@ even more so, than those who walk
 for in the path itself, is nothing but a way  
 in the light of night  
 may I still trek the same
+
+---

@@ -1,3 +1,7 @@
+# _Life_
+
+---
+
 ## At an end
 
 fight the void  
@@ -71,7 +75,7 @@ we feared to do.
 
 ---
 
-## The Journey  
+## The Journey
 
 The Journey
 Once upon a time  
@@ -93,3 +97,5 @@ Blessed with momentum infinite
 I have newfound family.
 
 \#MEST \#ClassOf2020
+
+---
